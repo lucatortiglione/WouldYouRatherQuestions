@@ -1,0 +1,621 @@
+﻿ref,source,language,category,intensity,optionA,optionB
+wyr-new-20261031-01-01,yours,it,social,light,Far partire la vostra risata registrata ogni volta che salutate,Avere una musica romantica ogni volta che chiedete indicazioni
+wyr-new-20261031-01-02,yours,it,social,light,Chiamare per errore «tesoro» il vostro istruttore di guida,Dare del «professore» al cameriere per tutta la cena
+wyr-new-20261031-01-03,yours,it,social,light,Presentarvi a una festa in pigiama elegante,Arrivare a una festa in abito elegante quando tutti sono in pigiama
+wyr-new-20261031-01-04,yours,it,fame,light,Avere sempre una foglia di insalata tra i denti nei selfie,Avere sempre un'etichetta del prezzo visibile nelle foto
+wyr-new-20261031-01-05,yours,it,social,light,Ricevere applausi ogni volta che sbagliate una parola,Sentire un fischio ogni volta che inciampate
+wyr-new-20261031-01-06,yours,it,social,light,Confondere ogni settimana un vicino con un parente,Scambiare ogni mese un collega per un vecchio compagno di scuola
+wyr-new-20261031-01-07,yours,it,social,light,Pronunciare «eccoci qua» prima di ogni videochiamata,"Concludere ogni telefonata con «un bacione, campione»"
+wyr-new-20261031-01-08,yours,it,love,light,Far cadere le chiavi proprio quando cercate di fare colpo,Perdere una scarpa proprio quando volete fare colpo
+wyr-new-20261031-01-09,yours,it,social,light,Essere ripresi mentre salutate una statua credendola una persona,Essere ripresi mentre discutete con un distributore automatico
+wyr-new-20261031-01-10,yours,it,social,light,Raccontare barzellette che finiscono sempre nel silenzio,Fare complimenti che sembrano sempre battute sarcastiche
+wyr-new-20261031-01-11,yours,it,social,tough,Mandare al capo il video in cui imitate il suo modo di parlare,Mandare ai parenti il video in cui imitate tutti i loro difetti
+wyr-new-20261031-01-12,yours,it,social,tough,Avere un cartellone con la vostra peggior frase di rimorchio,Avere una suoneria con il vostro peggior tentativo di flirt
+wyr-new-20261031-01-13,yours,it,social,tough,Essere ricordati al matrimonio per aver chiamato lo sposo col nome sbagliato,Essere ricordati per aver rovesciato la torta nuziale
+wyr-new-20261031-01-14,yours,it,social,tough,Vedere la vostra peggior figuraccia riprodotta in uno spot,Diventare il meme ufficiale della vostra città per una gaffe
+wyr-new-20261031-01-15,yours,it,love,tough,Leggere ad alta voce i messaggi scritti ma mai inviati,Far leggere a una platea i vostri vecchi profili di appuntamenti
+wyr-new-20261031-01-16,yours,it,social,tough,Fare un inchino involontario ogni volta che venite rimproverati,Fare l'occhiolino involontario ogni volta che chiedete scusa
+wyr-new-20261031-01-17,yours,it,social,tough,Ripetere per un anno la stessa figuraccia a ogni primo appuntamento,Rivivere una figuraccia diversa a ogni colloquio importante
+wyr-new-20261031-01-18,yours,it,school-work,tough,Avere un microfono aperto durante una vostra imitazione del capo,Avere la webcam accesa mentre criticate la riunione
+wyr-new-20261031-01-19,yours,it,social,tough,Essere costretti a improvvisare un brindisi per i vostri ex,Improvvisare un discorso davanti a tutti i vostri vecchi insegnanti
+wyr-new-20261031-01-20,yours,it,social,tough,Sentire tutti ridere ogni volta che provate a essere seri,Sentire tutti restare in silenzio quando provate a fare gli spiritosi
+wyr-new-20261031-02-01,yours,it,social,light,Scoprire dove avete nascosto ogni vecchio regalo imbarazzante,Ritrovare tutte le lettere che avete scritto e mai spedito
+wyr-new-20261031-02-02,yours,it,social,light,Avere un archivio ordinato di tutte le vostre piccole bugie,Avere un archivio ordinato di tutte le promesse dimenticate
+wyr-new-20261031-02-03,yours,it,social,light,Ricordare sempre quale scusa avete usato per saltare una festa,Ricordare sempre quale storia avete inventato per fare colpo
+wyr-new-20261031-02-04,yours,it,social,light,Sapere chi ha creduto alla vostra bugia più innocente,Sapere chi ha capito una vostra scusa senza farvelo notare
+wyr-new-20261031-02-05,yours,it,social,light,Trovare un quaderno con i vostri soprannomi segreti,Trovare una registrazione delle vostre imitazioni dei parenti
+wyr-new-20261031-02-06,yours,it,social,light,Recuperare una foto scomparsa che vi mette in imbarazzo,Recuperare una vecchia chat che preferivate dimenticare
+wyr-new-20261031-02-07,yours,it,social,light,Confessare di aver finto di amare un regalo per anni,Confessare di aver inventato un hobby per fare amicizia
+wyr-new-20261031-02-08,yours,it,social,light,Scoprire chi ha letto un vostro diario delle vacanze,Scoprire chi ha ascoltato un vostro vecchio messaggio vocale
+wyr-new-20261031-02-09,yours,it,social,light,Dimenticare la password del vostro diario segreto,Trovare il vostro diario segreto in una scatola di famiglia
+wyr-new-20261031-02-10,yours,it,social,light,Rivelare il nome che davate in segreto a un compagno,Rivelare la scusa assurda usata per evitare un invito
+wyr-new-20261031-02-11,yours,it,love,tough,Far conoscere al partner la vostra bugia sentimentale più grande,Far conoscere agli amici il vostro tradimento di fiducia più grave
+wyr-new-20261031-02-12,yours,it,social,tough,Vedere pubblicata la classifica segreta dei vostri amici,Vedere pubblicate le scuse con cui avete evitato i vostri amici
+wyr-new-20261031-02-13,yours,it,social,tough,Confessare una bugia che salva la vostra reputazione,Tenere una bugia che rende un amico ingiustamente sospetto
+wyr-new-20261031-02-14,yours,it,social,tough,Rivelare chi avete escluso volontariamente da una festa,Rivelare chi avete invitato solo per ottenere un favore
+wyr-new-20261031-02-15,yours,it,school-work,tough,Far ascoltare ai colleghi la vostra finta voce professionale,Far vedere ai colleghi il vostro vecchio curriculum esagerato
+wyr-new-20261031-02-16,yours,it,school-work,tough,Ammettere di aver mentito sul vostro primo grande successo,Ammettere di aver preso il merito di un'idea altrui
+wyr-new-20261031-02-17,yours,it,social,tough,Far ritrovare a tutti le vostre vecchie lettere di scuse,Far ritrovare a tutti le lettere in cui accusavate altri
+wyr-new-20261031-02-18,yours,it,social,tough,Confessare un segreto di famiglia che non vi appartiene,Essere accusati di avere rivelato un segreto che avete protetto
+wyr-new-20261031-02-19,yours,it,social,tough,Sapere quale persona avete ferito con una bugia dimenticata,Sapere chi vi ha perdonato senza aver ricevuto scuse
+wyr-new-20261031-02-20,yours,it,social,tough,Perdere la fiducia di un amico confessando un vecchio inganno,Conservare l'amicizia lasciando che creda a un torto mai avvenuto
+wyr-new-20261031-03-01,yours,it,money,light,Ricevere 200 € ogni volta che rinunciate a un complimento,Ricevere 200 € ogni volta che cedete un piccolo merito
+wyr-new-20261031-03-02,yours,it,money,light,Avere pranzi gratis premiando un ristorante mediocre,Avere cene gratis criticando un ristorante eccellente
+wyr-new-20261031-03-03,yours,it,fame,light,Vincere una vacanza facendovi attribuire una recensione falsa,Vincere un telefono lasciando che qualcuno copi una vostra idea
+wyr-new-20261031-03-04,yours,it,money,light,Essere pagati per difendere una moda che detestate,Essere pagati per criticare un hobby che amate
+wyr-new-20261031-03-05,yours,it,money,light,Guadagnare con ogni favore che non fate agli sconosciuti,Guadagnare con ogni regalo che restituite senza aprirlo
+wyr-new-20261031-03-06,yours,it,money,light,Avere una tessera VIP fingendo di conoscere il proprietario,Avere un posto in prima fila fingendo di essere un esperto
+wyr-new-20261031-03-07,yours,it,money,light,Ricevere uno stipendio extra per una falsa premiazione,Ottenere una promozione accettando un titolo inventato
+wyr-new-20261031-03-08,yours,it,sports,light,Essere pagati per sostenere la squadra avversaria,Essere pagati per applaudire soltanto chi arriva ultimo
+wyr-new-20261031-03-09,yours,it,money,light,Ricevere 25 € ogni volta che cedete la scelta della musica,Ricevere 25 € ogni volta che lasciate ad altri il posto migliore
+wyr-new-20261031-03-10,yours,it,money,light,Accettare un premio per una gara cui non avete partecipato,Accettare un attestato per un corso che non avete seguito
+wyr-new-20261031-03-11,yours,it,money,tough,Diventare ricchi grazie a un'invenzione attribuita al vostro amico,Restare anonimi mentre il vostro amico diventa ricco con la vostra idea
+wyr-new-20261031-03-12,yours,it,money,tough,Ottenere casa gratis lasciando che vi credano disonesti,Pagare l'affitto tutta la vita per restare considerati onesti
+wyr-new-20261031-03-13,yours,it,money,tough,Ricevere un milione lasciando licenziare ingiustamente un collega,Rinunciare al milione per difendere quel collega pubblicamente
+wyr-new-20261031-03-14,yours,it,money,tough,Avere uno stipendio triplo mentendo ai clienti ogni giorno,Tenere uno stipendio normale dicendo sempre la verità ai clienti
+wyr-new-20261031-03-15,yours,it,money,tough,Salvare la vostra reputazione lasciando che paghi un innocente,Pagare una multa enorme per una colpa commessa da altri
+wyr-new-20261031-03-16,yours,it,sports,tough,Vincere un premio importante tradendo il patto con la squadra,Rinunciare alla vittoria rispettando il patto con la squadra
+wyr-new-20261031-03-17,yours,it,money,tough,Ottenere un grande finanziamento nascondendo un errore grave,Perdere il finanziamento rendendo pubblico il vostro errore
+wyr-new-20261031-03-18,yours,it,money,tough,Vedere riconosciuto il vostro talento grazie a una raccomandazione,Rifiutare la raccomandazione e restare invisibili per anni
+wyr-new-20261031-03-19,yours,it,money,tough,Ricevere una rendita eterna accettando che un rivale vi superi sempre,Restare senza rendita pur di essere migliori del vostro rivale
+wyr-new-20261031-03-20,yours,it,money,tough,Acquistare ogni comodità perdendo la possibilità di fare beneficenza,Vivere senza lussi potendo aiutare chiunque ne abbia bisogno
+wyr-new-20261031-04-01,yours,it,social,light,Difendere il vostro film preferito davanti a cento critici,Difendere la vostra ricetta preferita davanti a cento chef
+wyr-new-20261031-04-02,yours,it,social,light,Dire che amate i lunedì a un gruppo di pendolari,Dire che odiate le vacanze a un gruppo di turisti
+wyr-new-20261031-04-03,yours,it,social,light,Essere gli unici a preferire il silenzio durante una festa,Essere gli unici a preferire ballare durante una cena formale
+wyr-new-20261031-04-04,yours,it,social,light,Ammettere di trovare noiosa una serie amatissima,Ammettere di preferire un sequel all'originale famoso
+wyr-new-20261031-04-05,yours,it,food,light,Scegliere un pranzo freddo in un ristorante stellato,Scegliere una cena da asporto durante un banchetto elegante
+wyr-new-20261031-04-06,yours,it,social,light,Dichiarare che un libro vi piace più del film,Dichiarare che il film vi piace più del libro
+wyr-new-20261031-04-07,yours,it,social,light,Preferire il tavolo dei bambini a una cena ufficiale,Preferire il buffet al posto assegnato a un gala
+wyr-new-20261031-04-08,yours,it,lifestyle,light,Criticare la musica della vostra generazione,Difendere la musica della generazione dei vostri nonni
+wyr-new-20261031-04-09,yours,it,social,light,Essere sempre in minoranza nelle discussioni sul cibo,Essere sempre in minoranza nelle discussioni sui viaggi
+wyr-new-20261031-04-10,yours,it,social,light,Avere gusti musicali impopolari ma sinceri,Fingere gusti musicali popolari per evitare discussioni
+wyr-new-20261031-04-11,yours,it,lifestyle,tough,Dire a tutti che una tradizione familiare vi annoia,Dire a tutti che una festa popolare non vi diverte
+wyr-new-20261031-04-12,yours,it,social,tough,Essere sempre l'unico contrario alle decisioni del gruppo,Essere sempre l'unico favorevole alle idee più impopolari
+wyr-new-20261031-04-13,yours,it,social,tough,Difendere una scelta etica che i vostri amici deridono,Tacere una vostra convinzione per non perdere gli amici
+wyr-new-20261031-04-14,yours,it,social,tough,Scoprire che nessuno condivide la vostra idea di felicità,Scoprire che tutti fingono di condividere la vostra idea
+wyr-new-20261031-04-15,yours,it,social,tough,Essere famosi per una critica giusta ma odiata da tutti,Restare ignoti per aver difeso un'opinione condivisa da tutti
+wyr-new-20261031-04-16,yours,it,social,tough,Dire la vostra opinione impopolare e perdere un'opportunità,Nasconderla e ottenere un ruolo che non vi rappresenta
+wyr-new-20261031-04-17,yours,it,social,tough,Essere applauditi per un'idea che trovate sbagliata,Essere criticati per un'idea che ritenete giusta
+wyr-new-20261031-04-18,yours,it,social,tough,Difendere il diritto di sbagliare di qualcuno che non vi piace,Difendere una regola severa che danneggia un vostro amico
+wyr-new-20261031-04-19,yours,it,social,tough,Essere sempre sinceri su ciò che non vi entusiasma,Dire sempre che tutto è fantastico per non offendere nessuno
+wyr-new-20261031-04-20,yours,it,social,tough,Rinunciare a piacere agli altri per difendere le vostre idee,Essere apprezzati da tutti senza poter esprimere dissenso
+wyr-new-20261031-05-01,yours,it,fame,light,Diventare famosi per un tutorial banale ma utilissimo,Diventare famosi per una caduta buffa ma innocua
+wyr-new-20261031-05-02,yours,it,fame,light,Ricevere applausi ogni volta che entrate in un negozio,Ricevere una standing ovation ogni volta che uscite dal cinema
+wyr-new-20261031-05-03,yours,it,fame,light,Ricevere un premio per la miglior imitazione di una celebrità,Ricevere un premio per il peggior discorso improvvisato in TV
+wyr-new-20261031-05-04,yours,it,fame,light,Essere presentati sempre con un titolo esagerato,Essere presentati sempre con un soprannome ridicolo
+wyr-new-20261031-05-05,yours,it,fame,light,Avere un vostro ritratto in ogni bar della città,Avere una vostra citazione stampata su ogni tovaglietta
+wyr-new-20261031-05-06,yours,it,fame,light,Vincere un premio per la vostra risata contagiosa,Vincere un premio per il vostro pessimo senso dell'orientamento
+wyr-new-20261031-05-07,yours,it,fame,light,Essere conosciuti solo per una frase inventata da altri,Essere conosciuti solo per una battuta detta per sbaglio
+wyr-new-20261031-05-08,yours,it,fame,light,Ottenere il badge verificato senza avere follower,Avere milioni di follower senza poter avere il badge verificato
+wyr-new-20261031-05-09,yours,it,fame,light,Essere invitati a tutti gli eventi ma mai fotografati,Essere fotografati a tutti gli eventi senza ricevere inviti
+wyr-new-20261031-05-10,yours,it,fame,light,Avere un fan club piccolissimo ma instancabile,Avere una folla di fan che dimentica subito il vostro nome
+wyr-new-20261031-05-11,yours,it,fame,tough,Diventare celebri per una storia personale raccontata male,Restare anonimi dopo aver realizzato qualcosa di straordinario
+wyr-new-20261031-05-12,yours,it,fame,tough,Essere un idolo online ma sentirvi ignorati dai vicini,Essere amatissimi dai vicini ma insultati ogni giorno online
+wyr-new-20261031-05-13,yours,it,fame,tough,Ricevere un premio enorme con un discorso scritto da altri,Perdere un premio dopo un discorso sincero e criticato
+wyr-new-20261031-05-14,yours,it,social,tough,Essere ricordati per la vostra peggiore decisione pubblica,Essere dimenticati nonostante tutte le vostre buone decisioni
+wyr-new-20261031-05-15,yours,it,fame,tough,Vedere ogni vostro errore raccontato dai telegiornali,Vedere ogni vostro successo attribuito a un'altra persona
+wyr-new-20261031-05-16,yours,it,fame,tough,Avere grande influenza ma nessuna credibilità tra gli amici,Avere fiducia assoluta degli amici ma nessuna influenza pubblica
+wyr-new-20261031-05-17,yours,it,dilemmas,tough,Essere famosi per una causa che non condividete,Essere sconosciuti mentre la vostra causa cambia davvero le cose
+wyr-new-20261031-05-18,yours,it,fame,tough,Accettare un ruolo importante sapendo di non esserne capaci,Rifiutarlo e vedere premiato chi si prende tutto il merito
+wyr-new-20261031-05-19,yours,it,fame,tough,Poter cambiare un'opinione pubblica ma perdere ogni privacy,Conservare tutta la privacy senza poter convincere nessuno
+wyr-new-20261031-05-20,yours,it,fame,tough,Diventare simbolo di una scelta che oggi rimpiangete,Rinunciare a ogni riconoscimento per correggere quella scelta
+wyr-new-20261031-06-01,yours,it,dilemmas,light,Sapere quale vostro pregio notano subito gli sconosciuti,Sapere quale vostro difetto notano subito gli amici
+wyr-new-20261031-06-02,yours,it,dilemmas,light,Sapere chi vi ascolta per vero interesse,Sapere chi vi fa domande soltanto per cortesia
+wyr-new-20261031-06-03,yours,it,dilemmas,light,Sentire cosa pensano gli altri del vostro modo di vestire,Sentire cosa pensano gli altri del vostro modo di parlare
+wyr-new-20261031-06-04,yours,it,dilemmas,light,Scoprire quale abitudine vi rende simpatici,Scoprire quale abitudine mette gli altri a disagio
+wyr-new-20261031-06-05,yours,it,dilemmas,light,Sapere quando qualcuno vi trova davvero divertenti,Sapere quando qualcuno ride solo per gentilezza
+wyr-new-20261031-06-06,yours,it,dilemmas,light,Chiedere un giudizio sincero su un vostro hobby,Chiedere un giudizio sincero su una vostra scelta di stile
+wyr-new-20261031-06-07,yours,it,dilemmas,light,Conoscere il motivo per cui qualcuno vi ammira,Conoscere il motivo per cui qualcuno vi evita
+wyr-new-20261031-06-08,yours,it,dilemmas,light,Sentire una critica onesta detta con molta delicatezza,Ricevere un elogio sincero espresso in modo imbarazzante
+wyr-new-20261031-06-09,yours,it,dilemmas,light,Conoscere il vostro talento che nessuno vi ha mai nominato,Conoscere il limite che nessuno ha mai osato segnalarvi
+wyr-new-20261031-06-10,yours,it,school-work,light,Ricevere una valutazione sincera del vostro primo appuntamento,Ricevere una valutazione sincera del vostro ultimo colloquio
+wyr-new-20261031-06-11,yours,it,dilemmas,tough,Scoprire perché un amico non si fida più di voi,Scoprire perché una persona cara finge di fidarsi di voi
+wyr-new-20261031-06-12,yours,it,dilemmas,tough,Sapere quale vostro gesto ha ferito qualcuno senza volerlo,Sapere quale persona avete deluso senza accorgervene
+wyr-new-20261031-06-13,yours,it,dilemmas,tough,Sentire la verità più dura dal vostro migliore amico,Sentirla da uno sconosciuto che vi conosce appena
+wyr-new-20261031-06-14,yours,it,dilemmas,tough,Scoprire che il vostro successo dipendeva dalla fortuna,Scoprire che il vostro fallimento dipendeva da una vostra scelta
+wyr-new-20261031-06-15,yours,it,dilemmas,tough,Sapere esattamente perché siete stati esclusi da un gruppo,Non conoscere mai il motivo ma riuscire a farvene una ragione
+wyr-new-20261031-06-16,yours,it,dilemmas,tough,Sapere chi vi considera un amico soltanto per convenienza,Sapere chi vi aiuta per pietà senza dirvelo
+wyr-new-20261031-06-17,yours,it,dilemmas,tough,Ricevere una critica giusta che distrugge una vostra illusione,Restare in un'illusione che vi rende profondamente sereni
+wyr-new-20261031-06-18,yours,it,social,tough,Dire una verità necessaria che rovina una festa,Tacere una verità necessaria per salvare l'atmosfera
+wyr-new-20261031-06-19,yours,it,dilemmas,tough,Sapere cosa pensa davvero di voi la persona che amate,Sapere cosa pensate davvero di lei senza poterlo nascondere
+wyr-new-20261031-06-20,yours,it,dilemmas,tough,Scoprire di avere avuto torto nel litigio più importante,Scoprire che avevate ragione ma avete ferito qualcuno inutilmente
+wyr-new-20261031-07-01,yours,it,love,light,Avere una cotta che risponde dopo tre giorni ma scrive messaggi bellissimi,Avere una cotta che scrive subito ma soltanto «ok»
+wyr-new-20261031-07-02,yours,it,love,light,Uscire con chi dimentica sempre gli anniversari,Uscire con chi festeggia anche l'anniversario del primo messaggio
+wyr-new-20261031-07-03,yours,it,love,light,Avere un partner che mette like a tutte le vostre foto,Avere un partner che non usa mai i social e non vede le foto
+wyr-new-20261031-07-04,yours,it,love,light,Frequentare chi pianifica ogni appuntamento nei dettagli,Frequentare chi cambia il programma cinque minuti prima
+wyr-new-20261031-07-05,yours,it,love,light,Ricevere regali spettacolari ma completamente fuori gusto,Ricevere regali azzeccati ma sempre all'ultimo minuto
+wyr-new-20261031-07-06,yours,it,love,light,Avere un partner geloso del vostro animale domestico,Avere un partner che chiama il vostro animale «amore mio»
+wyr-new-20261031-07-07,yours,it,love,light,Frequentare chi parla troppo dei propri ex,Frequentare chi non racconta mai nulla del proprio passato
+wyr-new-20261031-07-08,yours,it,love,light,Avere una cotta che vi sfida in ogni discussione,Avere una cotta che vi dà sempre ragione senza ascoltarvi
+wyr-new-20261031-07-09,yours,it,love,light,Ricevere cento messaggi quando siete occupati,Non ricevere messaggi per giorni quando avete tempo libero
+wyr-new-20261031-07-10,yours,it,love,light,Avere un partner che improvvisa sorprese che detestate,Avere un partner che chiede il permesso prima di ogni sorpresa
+wyr-new-20261031-07-11,yours,it,love,tough,Scoprire che il partner controlla di nascosto i vostri profili,Scoprire che il partner racconta ogni vostro litigio agli amici
+wyr-new-20261031-07-12,yours,it,lifestyle,tough,Frequentare chi pretende tutte le vostre password,Frequentare chi rifiuta di dirvi anche il suo vero cognome
+wyr-new-20261031-07-13,yours,it,love,tough,Avere un partner che mette sempre alla prova la vostra gelosia,Avere un partner che interpreta ogni vostra amicizia come flirt
+wyr-new-20261031-07-14,yours,it,love,tough,Scoprire che il partner vi ha mentito su una grande spesa,Scoprire che il partner ha nascosto un debito importante
+wyr-new-20261031-07-15,yours,it,love,tough,Essere perdonati per un errore che il partner ricorda ogni giorno,Essere lasciati per un errore che il partner vi perdona davvero
+wyr-new-20261031-07-16,yours,it,love,tough,Rinunciare a un'amicizia per tenere una relazione,Perdere la relazione per difendere un'amicizia innocente
+wyr-new-20261031-07-17,yours,it,love,tough,Scoprire un tradimento sentimentale confessato subito,Scoprire una lunga doppia vita sentimentale per caso
+wyr-new-20261031-07-18,yours,it,dilemmas,tough,Vivere una relazione passionale senza fiducia reciproca,Vivere una relazione affidabile senza alcuna passione
+wyr-new-20261031-07-19,yours,it,love,tough,Dire al partner che non vi sentite più ascoltati e rischiare la rottura,Restare insieme evitando per sempre quel confronto
+wyr-new-20261031-07-20,yours,it,love,tough,Lasciare una relazione che vi rende insicuri ma che amate,Restare in una relazione stabile senza sentirvi davvero scelti
+wyr-new-20261031-08-01,yours,it,social,light,Avere amici che organizzano tutto senza chiedervi nulla,Avere amici che vi chiedono di organizzare ogni uscita
+wyr-new-20261031-08-02,yours,it,social,light,Essere sempre scelti per primi a calcetto ma ultimi a cena,Essere sempre scelti per primi a cena ma ultimi a calcetto
+wyr-new-20261031-08-03,yours,it,social,light,Prestare un libro che non rivedrete mai,Restituire un libro con cento pagine sottolineate
+wyr-new-20261031-08-04,yours,it,social,light,Avere un amico che vi chiama solo per raccontare barzellette,Avere un amico che vi chiama solo per chiedere consigli
+wyr-new-20261031-08-05,yours,it,social,light,Far scegliere ai vostri amici il vostro prossimo hobby,Far scegliere ai vostri amici il vostro prossimo taglio di capelli
+wyr-new-20261031-08-06,yours,it,social,light,Ricevere un regalo di gruppo inutile ma carissimo,Ricevere un regalo economico che tutti hanno scelto con cura
+wyr-new-20261031-08-07,yours,it,social,light,Condividere una vacanza con amici sempre in ritardo,Condividere una vacanza con amici ossessionati dagli orari
+wyr-new-20261031-08-08,yours,it,social,light,Essere gli ultimi a sapere di una festa a sorpresa,Essere i primi a sapere che una festa è stata annullata
+wyr-new-20261031-08-09,yours,it,social,light,Avere amici che vi difendono troppo nelle discussioni,Avere amici che vi prendono sempre in giro ma con affetto
+wyr-new-20261031-08-10,yours,it,social,light,Organizzare una festa sorpresa che viene scoperta subito,Subire una festa sorpresa che nessuno riesce a organizzare
+wyr-new-20261031-08-11,yours,it,social,tough,Difendere un amico che ha sbagliato pubblicamente,Dire pubblicamente che un amico ha sbagliato per proteggerlo
+wyr-new-20261031-08-12,yours,it,social,tough,Prestare un'importante somma a un amico senza garanzie,Rifiutare il prestito sapendo che l'amicizia cambierà
+wyr-new-20261031-08-13,yours,it,social,tough,Scoprire che tutti i vostri amici vi hanno nascosto un fatto,Sapere un fatto che i vostri amici non vorrebbero conosceste
+wyr-new-20261031-08-14,yours,it,dilemmas,tough,Essere l'unico amico a conoscere una verità difficile,Essere l'unico amico tenuto all'oscuro per proteggervi
+wyr-new-20261031-08-15,yours,it,social,tough,Prendere le parti dell'amico escluso da tutti,Accettare l'esclusione per non perdere il resto del gruppo
+wyr-new-20261031-08-16,yours,it,social,tough,Rivelare a un amico una bugia raccontata da un altro amico,Conservare il segreto e guardare l'amico venire ingannato
+wyr-new-20261031-08-17,yours,it,dilemmas,tough,Avere un amico che vi critica sempre davanti a tutti,Avere un amico che vi difende in pubblico ma vi mente in privato
+wyr-new-20261031-08-18,yours,it,social,tough,Essere traditi dall'amico che avete aiutato di più,Tradire la fiducia dell'amico che crede maggiormente in voi
+wyr-new-20261031-08-19,yours,it,social,tough,Avere molti amici pronti a divertirsi ma assenti quando serve,Avere un solo amico sempre presente ma molto esigente
+wyr-new-20261031-08-20,yours,it,social,tough,Difendere il vostro migliore amico in una disputa in cui ha torto,Dare ragione a uno sconosciuto contro il vostro migliore amico
+wyr-new-20261031-09-01,yours,it,money,light,Ricevere 50 € ogni giorno senza poterli risparmiare,Ricevere 500 € ogni mese da spendere soltanto in viaggi
+wyr-new-20261031-09-02,yours,it,money,light,Trovare 100 € ogni settimana ma soltanto in monetine,Ricevere 400 € al mese ma soltanto in buoni spesa
+wyr-new-20261031-09-03,yours,it,money,light,Vincere un abbonamento a tutti i cinema della città,Vincere un abbonamento a tutti i ristoranti della città
+wyr-new-20261031-09-04,yours,it,money,light,Pagare sempre gli amici e ricevere piccoli regali,Farvi sempre offrire dagli amici senza poter fare regali
+wyr-new-20261031-09-05,yours,it,money,light,Risparmiare su tutto ma non conoscere mai il prezzo pieno,Conoscere tutti gli sconti ma arrivare sempre un giorno tardi
+wyr-new-20261031-09-06,yours,it,money,light,Ricevere un rimborso per ogni acquisto inutile,Non avere mai voglia di comprare nulla di inutile
+wyr-new-20261031-09-07,yours,it,money,light,Trovare sempre parcheggio a pagamento gratis,Non pagare mai il trasporto pubblico ma viaggiare in piedi
+wyr-new-20261031-09-08,yours,it,money,light,Ricevere 2.000 € per imparare una nuova abilità,Ricevere 2.000 € per insegnare un'abilità che già conoscete
+wyr-new-20261031-09-09,yours,it,money,light,Vincere una vacanza costosissima per il prossimo anno,Ricevere denaro sufficiente per tre weekend improvvisati
+wyr-new-20261031-09-10,yours,it,money,light,Non pagare mai una riparazione domestica,Non pagare mai una bolletta telefonica
+wyr-new-20261031-09-11,yours,it,money,tough,Accettare 20.000 € subito rinunciando a ogni aumento futuro,Accettare aumenti annui garantiti ma niente bonus immediati
+wyr-new-20261031-09-12,yours,it,money,tough,Prestare il denaro a un parente che non restituisce mai nulla,Rifiutare un prestito necessario a un parente molto affidabile
+wyr-new-20261031-09-13,yours,it,money,tough,Vincere una cifra enorme ma doverla spendere tutta in una settimana,Ricevere una rendita modesta per vent'anni senza poterla anticipare
+wyr-new-20261031-09-14,yours,it,money,tough,Cancellare i vostri debiti rinunciando alle vacanze per dieci anni,Tenere tutti i debiti ma non rinunciare mai a una vacanza
+wyr-new-20261031-09-15,yours,it,money,tough,Perdere una grossa vincita tentando di raddoppiarla,Rinunciare alla possibilità di raddoppiare una piccola vincita
+wyr-new-20261031-09-16,yours,it,lifestyle,tough,Vivere gratis in una villa senza poter invitare nessuno,Pagare un affitto salato in una casa sempre piena di amici
+wyr-new-20261031-09-17,yours,it,money,tough,Ricevere un premio se il vostro rivale vince il doppio,Rinunciare al premio impedendo al rivale di vincere
+wyr-new-20261031-09-18,yours,it,social,tough,Farvi prestare soldi da una persona che vi ricorderà il favore,Pagare interessi elevati pur di non dovere favori a nessuno
+wyr-new-20261031-09-19,yours,it,money,tough,Comprare una cosa desiderata oggi rinunciando a un progetto futuro,Rinunciare alla cosa desiderata per finanziare il progetto futuro
+wyr-new-20261031-09-20,yours,it,money,tough,Essere ricchi ma avere ogni acquisto pubblico online,Avere pochi risparmi ma nessuno conosce le vostre finanze
+wyr-new-20261031-10-01,yours,it,dilemmas,light,Ricordare ogni nome che avete sentito almeno una volta,Ricordare ogni luogo che avete visitato almeno una volta
+wyr-new-20261031-10-02,yours,it,dilemmas,light,Poter rivivere un ricordo felice soltanto in sogno,Poter raccontare un ricordo felice facendolo vedere agli altri
+wyr-new-20261031-10-03,yours,it,dilemmas,light,Conoscere tutte le vostre passioni dimenticate,Scoprire tutte le passioni che non avete ancora provato
+wyr-new-20261031-10-04,yours,it,dilemmas,light,Ricordare ogni battuta divertente che avete ascoltato,Dimenticare immediatamente ogni battuta che non fa ridere
+wyr-new-20261031-10-05,yours,it,fantasy,light,Scambiare per un giorno i ricordi con quelli di un amico,Vedere per un giorno la vostra vita dal punto di vista di un amico
+wyr-new-20261031-10-06,yours,it,dilemmas,light,Ritrovare un oggetto perduto che richiama la vostra infanzia,Ritrovare una fotografia mai vista di una vostra giornata felice
+wyr-new-20261031-10-07,yours,it,dilemmas,light,Ricordare ogni libro letto senza poterlo rileggere,Rileggere i libri preferiti dimenticandone il finale ogni volta
+wyr-new-20261031-10-08,yours,it,dilemmas,light,Sapere quale episodio vi ha cambiato maggiormente,Sapere quale incontro vi ha influenzato senza accorgervene
+wyr-new-20261031-10-09,yours,it,dilemmas,light,Avere un ritratto perfetto del vostro carattere a dieci anni,Ricevere una descrizione perfetta del vostro carattere fra dieci anni
+wyr-new-20261031-10-10,yours,it,dilemmas,light,Poter conservare in un diario i vostri sogni più belli,Poter conservare in un diario le idee che dimenticate appena svegli
+wyr-new-20261031-10-11,yours,it,dilemmas,tough,Cancellare dalla memoria un vostro grande successo,Conservare il successo dimenticando chi vi aveva aiutato
+wyr-new-20261031-10-12,yours,it,dilemmas,tough,Cambiare un ricordo personale sapendo che gli altri lo conservano,Conservare un ricordo doloroso mentre tutti gli altri lo dimenticano
+wyr-new-20261031-10-13,yours,it,dilemmas,tough,Ricordare esattamente ogni errore commesso,Dimenticare ogni errore ma ripetere sempre le stesse scelte
+wyr-new-20261031-10-14,yours,it,dilemmas,tough,Perdere i ricordi di un anno felice e mantenerne le conseguenze,Ricordare quell'anno ma perdere tutti i legami nati allora
+wyr-new-20261031-10-15,yours,it,time-travel,tough,Sapere chi eravate davvero durante un periodo difficile,Scoprire chi sareste diventati scegliendo un'altra strada
+wyr-new-20261031-10-16,yours,it,dilemmas,tough,Poter cambiare il vostro nome e la vostra storia pubblica,Conservare la vostra storia ma perderne ogni testimonianza
+wyr-new-20261031-10-17,yours,it,dilemmas,tough,Dimenticare per sempre un'offesa che vi ha fatto crescere,Ricordare l'offesa senza mai più sentirne il peso
+wyr-new-20261031-10-18,yours,it,fantasy,tough,Vivere un'esperienza fantastica senza conservarne memoria,Ricordare un'esperienza fantastica che non avete mai vissuto
+wyr-new-20261031-10-19,yours,it,dilemmas,tough,Conoscere i ricordi che i vostri amici hanno di voi,Far conoscere ai vostri amici i ricordi che avete di loro
+wyr-new-20261031-10-20,yours,it,dilemmas,tough,Avere sempre la certezza di essere rimasti voi stessi,Cambiare continuamente e scoprire ogni volta qualcosa di nuovo
+wyr-new-20261031-11-01,yours,it,fantasy,light,Trovare sempre l'ultimo biglietto disponibile,Essere sempre i primi a ricevere un invito inatteso
+wyr-new-20261031-11-02,yours,it,fantasy,light,Avere fortuna soltanto nei giochi di carte,Avere fortuna soltanto nei quiz a premi
+wyr-new-20261031-11-03,yours,it,silly,light,Far trovare un euro a uno sconosciuto ogni volta che ridete,Trovare un euro ogni volta che fate ridere uno sconosciuto
+wyr-new-20261031-11-04,yours,it,fantasy,light,Indovinare sempre il lato di una moneta lanciata,Indovinare sempre il numero di un dado lanciato
+wyr-new-20261031-11-05,yours,it,fantasy,light,Arrivare sempre nel posto giusto ma un minuto in ritardo,Arrivare sempre un minuto prima ma nel posto sbagliato
+wyr-new-20261031-11-06,yours,it,fantasy,light,Avere sempre il semaforo verde in bicicletta,Trovare sempre libero il tavolo preferito al bar
+wyr-new-20261031-11-07,yours,it,fantasy,light,Ricevere ogni mattina un piccolo colpo di fortuna,Ricevere una grande sorpresa fortunata ogni primo lunedì del mese
+wyr-new-20261031-11-08,yours,it,fantasy,light,Far vincere piccoli premi a chi vi sta accanto,Vincere piccoli premi ogni volta che qualcuno vi ringrazia
+wyr-new-20261031-11-09,yours,it,fantasy,light,Trovare sempre la fila più veloce al supermercato,Trovare sempre il prodotto cercato all'ultimo scaffale
+wyr-new-20261031-11-10,yours,it,fantasy,light,Sapere quando una coincidenza vi porterà un regalo,Sapere quando una coincidenza vi farà incontrare un amico
+wyr-new-20261031-11-11,yours,it,fantasy,tough,Vincere una fortuna ma trasferire una giornata sfortunata a un amico,Rinunciare alla fortuna per evitare il suo giorno peggiore
+wyr-new-20261031-11-12,yours,it,fantasy,tough,Conoscere il vostro prossimo colpo di fortuna senza poterlo evitare,Conoscere la vostra prossima sfortuna senza poterla cambiare
+wyr-new-20261031-11-13,yours,it,money,tough,Avere il 90% di probabilità di vincere una grande somma,Ricevere una piccola somma garantita per tutti i prossimi anni
+wyr-new-20261031-11-14,yours,it,fantasy,tough,Essere sempre fortunati mentre il vostro rivale lo è di più,Essere mediamente sfortunati ma vedere il rivale perdere sempre
+wyr-new-20261031-11-15,yours,it,fantasy,tough,Sapere che ogni vostro successo toglie una possibilità a un altro,Rinunciare ai successi per regalare possibilità agli altri
+wyr-new-20261031-11-16,yours,it,fantasy,tough,Scegliere una fortuna personale che nessuno può condividere,Scegliere fortuna per i vostri amici senza goderne mai direttamente
+wyr-new-20261031-11-17,yours,it,fantasy,tough,Scoprire che ogni incontro importante era già predestinato,Non sapere mai se avete incontrato le persone giuste per caso
+wyr-new-20261031-11-18,yours,it,money,tough,Vincere un premio ogni volta che qualcuno perde una scommessa,Far vincere un premio a qualcuno ogni volta che rinunciate al vostro
+wyr-new-20261031-11-19,yours,it,fantasy,tough,Ricevere successo senza aver compreso perché lo meritate,Lavorare moltissimo per un successo che arriverà solo per caso
+wyr-new-20261031-11-20,yours,it,fantasy,tough,Conoscere il giorno del vostro massimo successo senza sapere come arrivarci,Sapere come arrivarci senza conoscere quando ci riuscirete
+wyr-new-20261031-12-01,yours,it,silly,light,Parlare sempre con la voce di un annunciatore ferroviario,Parlare sempre con il tono di una guida turistica
+wyr-new-20261031-12-02,yours,it,social,light,Ricevere sottotitoli quando qualcuno borbotta,Ricevere la traduzione delle battute che non capite
+wyr-new-20261031-12-03,yours,it,silly,light,Fare involontariamente rime quando ringraziate,Dire involontariamente proverbi quando vi scusate
+wyr-new-20261031-12-04,yours,it,social,light,Mandare ogni messaggio con una faccina scelta dal telefono,Ricevere ogni messaggio accompagnato da una musichetta
+wyr-new-20261031-12-05,yours,it,social,light,Essere capiti benissimo soltanto per iscritto,Essere capiti benissimo soltanto parlando a voce
+wyr-new-20261031-12-06,yours,it,social,light,Avere una risposta brillante sempre cinque minuti dopo,Avere una risposta mediocre ma sempre immediata
+wyr-new-20261031-12-07,yours,it,social,light,Capire perfettamente ogni dialetto italiano,Capire ogni gergo tecnico soltanto ascoltandolo una volta
+wyr-new-20261031-12-08,yours,it,social,light,Riuscire a spiegare idee difficili con disegni,Riuscire a spiegare idee difficili con esempi buffi
+wyr-new-20261031-12-09,yours,it,social,light,Avere un correttore che migliora tutte le vostre battute,Avere un correttore che chiarisce ogni vostro messaggio ambiguo
+wyr-new-20261031-12-10,yours,it,social,light,Essere sempre interrotti sul finale di una barzelletta,Far ridere tutti prima ancora di finire una barzelletta
+wyr-new-20261031-12-11,yours,it,social,tough,Dire sempre ciò che pensate senza poterlo correggere,Dire sempre ciò che gli altri vogliono sentire senza volerlo
+wyr-new-20261031-12-12,yours,it,social,tough,Avere una traduzione perfetta che altera il vostro tono,Conservare il tono autentico ma essere fraintesi nelle parole
+wyr-new-20261031-12-13,yours,it,social,tough,Sentire ogni bugia come una nota stonata,Sentire ogni complimento falso come un applauso registrato
+wyr-new-20261031-12-14,yours,it,social,tough,Far leggere a tutti la bozza del messaggio che avete cancellato,Far ascoltare a tutti i vocali che avete deciso di non inviare
+wyr-new-20261031-12-15,yours,it,social,tough,Potervi far capire da chiunque senza poter ascoltare,Capire chiunque senza poter esprimere i vostri pensieri
+wyr-new-20261031-12-16,yours,it,social,tough,Essere sempre interpretati come sarcastici quando siete sinceri,Essere sempre presi sul serio quando volete scherzare
+wyr-new-20261031-12-17,yours,it,social,tough,Riuscire a convincere gli altri senza credere a ciò che dite,Credere profondamente alle vostre idee senza saperle spiegare
+wyr-new-20261031-12-18,yours,it,dilemmas,tough,Conoscere il significato esatto di ogni silenzio,Conoscere il significato esatto di ogni sorriso
+wyr-new-20261031-12-19,yours,it,social,tough,Poter chiedere una sola chiarificazione in ogni litigio,Poter dire una sola frase che gli altri ricordano per sempre
+wyr-new-20261031-12-20,yours,it,social,tough,Dire una verità che nessuno riesce a comprendere,Essere compresi da tutti soltanto quando non dite la verità
+wyr-new-20261031-13-01,yours,it,survival,light,Trascorrere tre giorni in un rifugio con un cuoco pessimo,Trascorrere tre giorni in un rifugio con un cantante instancabile
+wyr-new-20261031-13-02,yours,it,survival,light,Avere un kayak veloce ma un remo che cigola,Avere una zattera stabile ma una corda che si annoda sempre
+wyr-new-20261031-13-03,yours,it,silly,light,Attraversare una palude guidati da una rana parlante,Attraversare una foresta guidati da un gufo distratto
+wyr-new-20261031-13-04,yours,it,silly,light,Avere una torcia inesauribile che lampeggia a ritmo di disco,Avere una bussola precisa che vi rimprovera ogni volta
+wyr-new-20261031-13-05,yours,it,survival,light,Trovare un'oasi con acqua tiepida e molta ombra,Trovare un'oasi con acqua fredda e nessuna ombra
+wyr-new-20261031-13-06,yours,it,survival,light,Poter mangiare soltanto zuppe in un rifugio perfetto,Poter mangiare soltanto panini in un rifugio scomodissimo
+wyr-new-20261031-13-07,yours,it,survival,light,Essere dispersi con un esperto che parla troppo,Essere dispersi con un principiante che non smette di cantare
+wyr-new-20261031-13-08,yours,it,survival,light,Avere una mappa esatta che si legge solo al contrario,Avere una radio funzionante che trasmette soltanto indovinelli
+wyr-new-20261031-13-09,yours,it,survival,light,Salvare i bagagli da un'isola allagata perdendo i souvenir,Salvare i souvenir lasciando sull'isola i vostri bagagli
+wyr-new-20261031-13-10,yours,it,survival,light,Passare una notte al freddo con una compagnia divertente,Passare una notte al caldo con una compagnia insopportabile
+wyr-new-20261031-13-11,yours,it,survival,tough,Rinunciare a tutto il cibo speciale per conservare acqua pulita,Rinunciare all'acqua calda per conservare provviste gustose
+wyr-new-20261031-13-12,yours,it,survival,tough,Essere bloccati in un rifugio con un rivale molto competente,Essere bloccati con un amico simpatico ma del tutto incapace
+wyr-new-20261031-13-13,yours,it,survival,tough,Accettare un soccorso immediato abbandonando ogni attrezzatura,Attendere soccorsi migliori per salvare tutta l'attrezzatura
+wyr-new-20261031-13-14,yours,it,survival,tough,Guidare un gruppo che non ascolta mai le vostre istruzioni,Seguire un capo che sbaglia spesso ma mantiene tutti tranquilli
+wyr-new-20261031-13-15,yours,it,survival,tough,Avere provviste per un mese senza sapere dove vi trovate,Conoscere la strada del ritorno senza avere provviste
+wyr-new-20261031-13-16,yours,it,survival,tough,Superare un percorso difficile da soli ma senza imprevisti,Percorrere una strada facile con un gruppo che litiga sempre
+wyr-new-20261031-13-17,yours,it,survival,tough,Cedere l'ultimo posto comodo in un rifugio a uno sconosciuto,Prendere il posto comodo lasciando il gruppo al freddo
+wyr-new-20261031-13-18,yours,it,survival,tough,Scegliere una strada sicura ma lunghissima per tornare,Scegliere una scorciatoia rischiosa con poche scorte
+wyr-new-20261031-13-19,yours,it,survival,tough,Abbandonare una scoperta preziosa per rientrare subito,Restare isolati un'altra settimana per documentare la scoperta
+wyr-new-20261031-13-20,yours,it,fantasy,tough,Potervi salvare da una tempesta perdendo ogni ricordo del viaggio,Conservare ogni ricordo del viaggio affrontando ancora la tempesta
+wyr-new-20261031-14-01,yours,it,silly,light,Scambiare per un giorno il vostro riflesso con quello del vicino,Scambiare per un giorno la vostra ombra con quella del gatto
+wyr-new-20261031-14-02,yours,it,silly,light,Avere scarpe che vi applaudono quando fate le scale,Avere una giacca che vi fischia quando entrate in ascensore
+wyr-new-20261031-14-03,yours,it,silly,light,Sentire il frigorifero commentare le vostre scelte alimentari,Sentire la lavatrice commentare i vostri abbinamenti di vestiti
+wyr-new-20261031-14-04,yours,it,time-travel,light,Avere ogni martedì con un'ora di tempo in più,Avere ogni venerdì con un'ora di sonno in più
+wyr-new-20261031-14-05,yours,it,fantasy,light,Far comparire un ombrello quando dite «pioggia»,Far comparire un ventaglio quando dite «caldo»
+wyr-new-20261031-14-06,yours,it,time-travel,light,Ritrovarvi nel futuro soltanto durante la pausa pranzo,Visitare il passato soltanto durante gli spot pubblicitari
+wyr-new-20261031-14-07,yours,it,fantasy,light,Poter far crescere un albero chiedendogli scusa,Poter accendere una lampada facendole un complimento
+wyr-new-20261031-14-08,yours,it,fantasy,light,Avere un clone che vi sostituisce soltanto nelle code,Avere un clone che vi sostituisce soltanto nelle riunioni noiose
+wyr-new-20261031-14-09,yours,it,silly,light,Vedere le vostre scarpe cambiare colore con l'umore,Vedere il vostro cappello cambiare forma con il tempo
+wyr-new-20261031-14-10,yours,it,silly,light,Avere il telecomando che indovina sempre il film desiderato,Avere uno specchio che sceglie sempre il vestito più comodo
+wyr-new-20261031-14-11,yours,it,time-travel,tough,Viaggiare nel futuro per scoprire chi vincerà un quiz,Tornare nel passato per scoprire chi aveva imbrogliato a un quiz
+wyr-new-20261031-14-12,yours,it,fantasy,tough,Ricevere un superpotere nuovo ogni settimana senza istruzioni,Conservare un unico superpotere utile ma impossibile da spiegare
+wyr-new-20261031-14-13,yours,it,fantasy,tough,Scambiare la vostra voce con quella di chi vi critica,Scambiare il vostro volto nei sogni con quello di chi vi ammira
+wyr-new-20261031-14-14,yours,it,fantasy,tough,Scoprire che ogni porta conduce nel luogo che desiderate meno,Scoprire che ogni finestra mostra il vostro futuro più imbarazzante
+wyr-new-20261031-14-15,yours,it,time-travel,tough,"Fermare il tempo quando fate una figuraccia, ma restare svegli","Riavvolgere un minuto, ma farlo ricordare a tutti tranne voi"
+wyr-new-20261031-14-16,yours,it,fantasy,tough,Essere invisibili durante i discorsi importanti,Essere luminosi come una lampada durante i momenti imbarazzanti
+wyr-new-20261031-14-17,yours,it,fantasy,tough,Scoprire che i vostri desideri si realizzano solo per gli altri,Scoprire che i desideri degli altri si realizzano solo per voi
+wyr-new-20261031-14-18,yours,it,time-travel,tough,Poter invertire ogni decisione passata perdendo il motivo per cui l'avete presa,Poter conoscere ogni conseguenza futura senza poter intervenire
+wyr-new-20261031-14-19,yours,it,time-travel,tough,Entrare in una versione del mondo dove tutti vi conoscono,Entrare in una versione del mondo dove nessuno vi riconosce
+wyr-new-20261031-14-20,yours,it,fantasy,tough,Ottenere il potere di cambiare la realtà soltanto nei sogni,Ottenere il potere di cambiare i sogni soltanto nella realtà
+wyr-new-20261031-15-01,yours,it,school-work,light,Avere una scrivania con vista ma senza spazio per lavorare,Avere una scrivania ampia in una stanza senza finestre
+wyr-new-20261031-15-02,yours,it,school-work,light,Lavorare quattro giorni con riunioni interminabili,Lavorare cinque giorni senza alcuna riunione
+wyr-new-20261031-15-03,yours,it,school-work,light,Ricevere complimenti dal capo soltanto davanti a tutti,Ricevere complimenti dal capo soltanto in privato
+wyr-new-20261031-15-04,yours,it,school-work,light,Avere colleghi puntualissimi ma sempre silenziosi,Avere colleghi divertenti ma sempre in ritardo
+wyr-new-20261031-15-05,yours,it,school-work,light,Fare ogni presentazione in piedi su un piccolo podio,Fare ogni presentazione seduti su una sedia troppo alta
+wyr-new-20261031-15-06,yours,it,school-work,light,Ricevere ogni lunedì una sorpresa sulla scrivania,Ricevere ogni venerdì un messaggio di ringraziamento
+wyr-new-20261031-15-07,yours,it,school-work,light,Avere una pausa pranzo lunghissima ma in un bar affollato,Avere una pausa breve ma in una sala tranquilla
+wyr-new-20261031-15-08,yours,it,school-work,light,Essere i più veloci a rispondere alle email,Essere i più bravi a rendere brevi le riunioni
+wyr-new-20261031-15-09,yours,it,school-work,light,Lavorare da casa con internet lento ogni mattina,Lavorare in ufficio con il riscaldamento troppo alto
+wyr-new-20261031-15-10,yours,it,school-work,light,Avere un assistente che risponde al telefono cantando,Avere un assistente che scrive promemoria in rima
+wyr-new-20261031-15-11,yours,it,school-work,tough,Accettare una promozione che vi allontana dai colleghi migliori,Restare nel ruolo attuale e vederli avanzare tutti
+wyr-new-20261031-15-12,yours,it,school-work,tough,Guadagnare molto lavorando su progetti in cui non credete,Guadagnare meno realizzando progetti in cui credete davvero
+wyr-new-20261031-15-13,yours,it,school-work,tough,Essere riconosciuti per un successo che dipende dalla squadra,Essere ignorati per un successo ottenuto interamente da voi
+wyr-new-20261031-15-14,yours,it,social,tough,Segnalare un errore importante del vostro responsabile,Correggerlo di nascosto lasciandogli ogni merito
+wyr-new-20261031-15-15,yours,it,school-work,tough,Conoscere l'esito di ogni colloquio senza poterlo cambiare,Non conoscere mai perché un colloquio è andato male
+wyr-new-20261031-15-16,yours,it,money,tough,Fare carriera rapidamente cambiando città ogni anno,Fare carriera lentamente restando vicini alle persone care
+wyr-new-20261031-15-17,yours,it,school-work,tough,Lasciare un impiego ben pagato per seguire un progetto rischioso,Rinunciare al progetto per proteggere la vostra stabilità
+wyr-new-20261031-15-18,yours,it,school-work,tough,Essere scelti come capo da colleghi che non si fidano di voi,Restare dipendenti di un capo che non rispetta le vostre idee
+wyr-new-20261031-15-19,yours,it,school-work,tough,Perdere una promozione per difendere un collega trattato male,Ottenere la promozione senza intervenire in sua difesa
+wyr-new-20261031-15-20,yours,it,money,tough,Ottenere un grande aumento con trasferimento immediato,Restare vicino alle persone care rinunciando a ogni aumento
+wyr-new-20261031-16-01,yours,it,food,light,Mangiare sushi servito con bacchette gigantesche,Mangiare spaghetti con una forchetta minuscola
+wyr-new-20261031-16-02,yours,it,food,light,Avere sempre il dessert gratis ma scegliere dopo cena,Avere sempre l'antipasto gratis ma non scegliere la portata
+wyr-new-20261031-16-03,yours,it,food,light,Provare un ristorante stellato con porzioni minuscole,Provare una trattoria sconosciuta con porzioni immense
+wyr-new-20261031-16-04,yours,it,food,light,Mangiare la vostra pizza preferita soltanto fredda,Mangiare il vostro gelato preferito soltanto tiepido
+wyr-new-20261031-16-05,yours,it,lifestyle,light,Fare colazione con piatti da cena per un mese,Cenare con piatti da colazione per un mese
+wyr-new-20261031-16-06,yours,it,food,light,Avere un cuoco che prepara tutto troppo croccante,Avere un cuoco che prepara tutto troppo morbido
+wyr-new-20261031-16-07,yours,it,food,light,Dover mangiare ogni pizza arrotolata come un cannolo,Dover mangiare ogni panino smontando un ingrediente alla volta
+wyr-new-20261031-16-08,yours,it,food,light,Ricevere un menu a sorpresa in ogni ristorante,Ordinare sempre lo stesso piatto senza guardare il menu
+wyr-new-20261031-16-09,yours,it,food,light,Assaggiare ogni settimana un formaggio sconosciuto,Assaggiare ogni settimana un frutto sconosciuto
+wyr-new-20261031-16-10,yours,it,food,light,Scegliere soltanto piatti serviti in ciotole enormi,Scegliere soltanto piatti serviti in vassoi minuscoli
+wyr-new-20261031-16-11,yours,it,food,tough,Mangiare per un anno solo cibi che non avete mai provato,Mangiare per un anno solo cibi che conoscete già bene
+wyr-new-20261031-16-12,yours,it,food,tough,Avere la ricetta perfetta del vostro piatto preferito senza poterla condividere,Poter condividere la ricetta senza assaggiare mai il risultato
+wyr-new-20261031-16-13,yours,it,food,tough,Avere accesso a ogni ristorante ma senza scegliere il tavolo,Avere sempre il tavolo perfetto ma un menu limitatissimo
+wyr-new-20261031-16-14,yours,it,food,tough,Mangiare una cena eccellente con persone che detestate,Mangiare una cena pessima con le persone che amate
+wyr-new-20261031-16-15,yours,it,gross,tough,Non poter più sentire il profumo del pane appena sfornato,Non poter più sentire il profumo del caffè appena preparato
+wyr-new-20261031-16-16,yours,it,food,tough,Ricevere una cena gratis ogni volta che confessate un gusto imbarazzante,Ricevere una cena gratis ogni volta che difendete una ricetta detestata
+wyr-new-20261031-16-17,yours,it,social,tough,Essere invitati a un banchetto magnifico senza poter parlare,Essere invitati a un banchetto mediocre dovendo parlare senza sosta
+wyr-new-20261031-16-18,yours,it,food,tough,Dover cucinare a sorpresa per cento sconosciuti,Dover giudicare pubblicamente cento piatti cucinati da amici
+wyr-new-20261031-16-19,yours,it,food,tough,Mangiare un solo piatto perfetto per tutto il prossimo anno,Mangiare cento piatti diversi senza ritrovare mai un sapore amato
+wyr-new-20261031-16-20,yours,it,food,tough,Rinunciare per sempre al vostro cibo preferito,Mangiare il vostro cibo preferito ogni giorno fino a stancavene
+wyr-new-20261031-17-01,yours,it,lifestyle,light,Non dover più stirare ma piegare ogni maglietta due volte,Non dover più piegare ma stirare anche i calzini
+wyr-new-20261031-17-02,yours,it,lifestyle,light,Avere sempre il telecomando a portata di mano,Avere sempre le chiavi dove vi aspettate di trovarle
+wyr-new-20261031-17-03,yours,it,lifestyle,light,Ricevere sempre il resto giusto in monetine,Ricevere sempre lo scontrino più breve possibile
+wyr-new-20261031-17-04,yours,it,lifestyle,light,Dormire in un letto perfetto ma con un cuscino troppo basso,Dormire con il cuscino perfetto ma un materasso troppo duro
+wyr-new-20261031-17-05,yours,it,lifestyle,light,Trovare sempre un posto libero al cinema,Trovare sempre un tavolo libero al bar
+wyr-new-20261031-17-06,yours,it,food,light,Non dover mai più scegliere cosa indossare,Non dover mai più scegliere cosa mangiare a pranzo
+wyr-new-20261031-17-07,yours,it,lifestyle,light,Avere il pavimento sempre pulito ma le finestre sporche,Avere finestre sempre pulite ma pavimenti da lavare
+wyr-new-20261031-17-08,yours,it,lifestyle,light,Eliminare ogni pubblicità dal telefono,Eliminare ogni pubblicità dalla televisione
+wyr-new-20261031-17-09,yours,it,lifestyle,light,Trovare sempre la taglia giusta nei negozi,Trovare sempre il colore giusto degli abiti
+wyr-new-20261031-17-10,yours,it,lifestyle,light,Avere tutte le piante di casa sempre in salute,Avere tutti gli elettrodomestici di casa senza guasti
+wyr-new-20261031-17-11,yours,it,lifestyle,tough,Guadagnare due ore libere ogni giorno ma senza poterle pianificare,Avere un'intera giornata libera al mese ma non poterla spostare
+wyr-new-20261031-17-12,yours,it,lifestyle,tough,Non usare più mappe digitali per un anno,Non usare più pagamenti digitali per un anno
+wyr-new-20261031-17-13,yours,it,lifestyle,tough,Vivere in una casa ordinata ma senza possibilità di personalizzarla,Vivere in una casa disordinata ma piena dei vostri ricordi
+wyr-new-20261031-17-14,yours,it,lifestyle,tough,Rinunciare alle consegne a domicilio per cinque anni,Rinunciare agli acquisti online per cinque anni
+wyr-new-20261031-17-15,yours,it,lifestyle,tough,Avere ogni cosa che desiderate ma doverla condividere,Possedere poche cose ma non doverle prestare mai
+wyr-new-20261031-17-16,yours,it,social,tough,Vivere in centro senza poter tenere animali domestici,Vivere in campagna con ore di viaggio per ogni commissione
+wyr-new-20261031-17-17,yours,it,lifestyle,tough,Non dover più fare faccende domestiche ma perdere ogni privacy in casa,Conservare la privacy dovendo fare tutte le faccende da soli
+wyr-new-20261031-17-18,yours,it,lifestyle,tough,Ricevere sempre consigli utilissimi che nessuno vi ha chiesto,Non ricevere mai consigli neanche quando ne avete bisogno
+wyr-new-20261031-17-19,yours,it,lifestyle,tough,Essere sempre connessi ma mai completamente soli,Essere irraggiungibili ogni sera anche quando vi cercano
+wyr-new-20261031-17-20,yours,it,dilemmas,tough,Avere una vita perfettamente prevedibile ma priva di sorprese,Vivere con sorprese continue ma senza una routine stabile
+wyr-new-20261031-18-01,yours,it,gross,light,Avere sempre le mani appiccicose dopo aver toccato un libro,Avere sempre le dita puzzolenti dopo aver aperto una bottiglia
+wyr-new-20261031-18-02,yours,it,gross,light,Avere odore di broccoli quando vi concentrate,Avere odore di acqua stagnante quando vi distraete
+wyr-new-20261031-18-03,yours,it,gross,light,Avere il singhiozzo appena entrate in una biblioteca,Avere un rutto appena salite su un autobus pieno
+wyr-new-20261031-18-04,yours,it,lifestyle,light,Avere il cucchiaino sempre appiccicoso anche dopo il lavaggio,Avere il bicchiere sempre odoroso di pesce anche dopo il lavaggio
+wyr-new-20261031-18-05,yours,it,gross,light,Sentire una goccia immaginaria sulla nuca ogni ora,Sentire un capello immaginario sulla lingua ogni ora
+wyr-new-20261031-18-06,yours,it,gross,light,Avere sempre una manica umida dopo aver lavato i piatti,Avere sempre un calzino umido dopo aver fatto la doccia
+wyr-new-20261031-18-07,yours,it,gross,light,Sentire rumore di masticazione ogni volta che leggete,Sentire rumore di risucchio ogni volta che scrivete
+wyr-new-20261031-18-08,yours,it,gross,light,Avere una sedia che emette rumori imbarazzanti quando vi sedete,Avere una scarpa che squittisce in ogni luogo silenzioso
+wyr-new-20261031-18-09,yours,it,gross,light,Trovare una mollica misteriosa in ogni tasca,Trovare sempre un filo di lana incastrato nei denti
+wyr-new-20261031-18-10,yours,it,gross,light,Avere odore di popcorn bruciato quando siete nervosi,Avere odore di formaggio stagionato quando siete felici
+wyr-new-20261031-18-11,yours,it,gross,tough,Sentire un pizzicore immaginario al mento ogni volta che mangiate,Sentire un formicolio immaginario al naso ogni volta che bevete
+wyr-new-20261031-18-12,yours,it,gross,tough,Sentire sapore di sapone per ogni sorso di acqua,Sentire sapore di aglio per ogni sorso di succo
+wyr-new-20261031-18-13,yours,it,gross,tough,Dover pulire ogni giorno un lavandino pieno di capelli,Dover pulire ogni giorno un frigorifero pieno di cibo avariato
+wyr-new-20261031-18-14,yours,it,gross,tough,Avere sempre il naso che cola durante un colloquio importante,Avere sempre la saliva che si accumula durante un discorso
+wyr-new-20261031-18-15,yours,it,gross,tough,Riuscire a lavare i vestiti ma non togliere mai l'odore di fritto,Riuscire a lavare i capelli ma non togliere mai l'odore di fumo
+wyr-new-20261031-18-16,yours,it,gross,tough,Avere la lingua che sa sempre di metallo,Avere il palato che sa sempre di dentifricio scaduto
+wyr-new-20261031-18-17,yours,it,gross,tough,Sentire il rumore di chewing gum a ogni porta che aprite,Sentire il rumore di uno starnuto trattenuto a ogni lampada accesa
+wyr-new-20261031-18-18,yours,it,gross,tough,Dover indossare per un anno una camicia sempre leggermente bagnata,Dover indossare per un anno pantaloni sempre pieni di sabbia
+wyr-new-20261031-18-19,yours,it,gross,tough,Avere piedi dall'odore terribile anche appena lavati,Avere mani dall'odore terribile anche appena lavate
+wyr-new-20261031-18-20,yours,it,gross,tough,Rinunciare al profumo di ogni cibo pur di non sentire cattivi odori,Sentire ogni odore sgradevole pur di gustare ogni cibo intensamente
+wyr-new-20261031-19-01,yours,it,sports,light,Vincere sempre a ping pong ma perdere sempre a biliardo,Vincere sempre a biliardo ma perdere sempre a ping pong
+wyr-new-20261031-19-02,yours,it,sports,light,Avere un allenatore che vi cronometra anche durante le pause,Avere un allenatore che vi fa riscaldare anche dopo le gare
+wyr-new-20261031-19-03,yours,it,sports,light,Essere infallibili nei rigori ma pessimi nei passaggi,Essere perfetti nei passaggi ma non segnare mai un gol
+wyr-new-20261031-19-04,yours,it,sports,light,Avere scarpe perfette per la corsa ma di colore imbarazzante,Avere una tuta bellissima ma che scricchiola a ogni movimento
+wyr-new-20261031-19-05,yours,it,fame,light,Ricevere una medaglia per ogni allenamento completato,Ricevere applausi per ogni allenamento saltato
+wyr-new-20261031-19-06,yours,it,sports,light,Trovare sempre la palestra vuota ma con musica pessima,Trovare sempre musica perfetta ma la palestra affollata
+wyr-new-20261031-19-07,yours,it,sports,light,Vincere ogni gara amatoriale senza ricevere premi,Ricevere un premio ogni volta che arrivate secondi
+wyr-new-20261031-19-08,yours,it,sports,light,Sapere sempre il risultato finale di una partita,Sapere sempre chi segnerà il prossimo punto
+wyr-new-20261031-19-09,yours,it,sports,light,Allenare una squadra simpaticissima ma distratta,Allenare una squadra disciplinata ma sempre imbronciata
+wyr-new-20261031-19-10,yours,it,sports,light,Essere bravissimi in uno sport che nessuno conosce,Essere mediocri nello sport più seguito del mondo
+wyr-new-20261031-19-11,yours,it,sports,tough,Vincere un campionato grazie a un errore arbitrale,Perdere la finale per un errore arbitrale evidente
+wyr-new-20261031-19-12,yours,it,sports,tough,Ottenere una grande vittoria con un compagno che vi detesta,Perdere con una squadra che vi considera indispensabili
+wyr-new-20261031-19-13,yours,it,sports,tough,Diventare campioni ma non poter più giocare per divertimento,Restare dilettanti potendo giocare con chiunque amate
+wyr-new-20261031-19-14,yours,it,dilemmas,tough,Sacrificare un primato personale per far vincere un compagno,Vincere il primato lasciando il compagno senza medaglia
+wyr-new-20261031-19-15,yours,it,sports,tough,Ricevere applausi universali per una vittoria facile,Ricevere poche attenzioni per un'impresa durissima
+wyr-new-20261031-19-16,yours,it,sports,tough,Essere allenati da un campione severissimo,Essere allenati da un amico gentile ma impreparato
+wyr-new-20261031-19-17,yours,it,social,tough,Sapere che il rivale bara senza poterlo dimostrare,Essere accusati di barare dopo una vittoria assolutamente regolare
+wyr-new-20261031-19-18,yours,it,sports,tough,Accettare una scorciatoia sportiva illegittima per vincere,Rinunciare al successo rispettando ogni regola
+wyr-new-20261031-19-19,yours,it,sports,tough,Vincere un torneo senza poter giocare la finale,Giocare la finale e perdere il torneo per un vostro errore
+wyr-new-20261031-19-20,yours,it,sports,tough,Vincere ogni competizione perdendo il piacere dello sport,Perdere spesso ma amare ogni minuto di allenamento
+wyr-new-20261031-20-01,yours,it,food,light,Fare ogni domenica il dessert per tutta la famiglia,Preparare ogni domenica l'antipasto per tutta la famiglia
+wyr-new-20261031-20-02,yours,it,social,light,Avere uno zio che racconta sempre la stessa barzelletta,Avere una zia che chiede sempre la stessa foto di gruppo
+wyr-new-20261031-20-03,yours,it,social,light,Organizzare il pranzo delle feste con i cugini più rumorosi,Organizzare la cena delle feste con i parenti più puntigliosi
+wyr-new-20261031-20-04,yours,it,social,light,Avere genitori che leggono sempre il menu prima di voi,Avere fratelli che ordinano sempre il vostro stesso piatto
+wyr-new-20261031-20-05,yours,it,social,light,Ricevere da ogni parente un consiglio sul vostro arredamento,Ricevere da ogni parente un consiglio sul vostro abbigliamento
+wyr-new-20261031-20-06,yours,it,social,light,Passare una serata coi cugini che giocano soltanto a carte,Passare una serata coi cugini che giocano soltanto a quiz
+wyr-new-20261031-20-07,yours,it,social,light,Avere una suocera che vi manda ricette ogni mattina,Avere un suocero che vi manda previsioni del tempo ogni sera
+wyr-new-20261031-20-08,yours,it,social,light,Essere sempre scelti per tagliare la torta in famiglia,Essere sempre scelti per fare le foto di ogni ricorrenza
+wyr-new-20261031-20-09,yours,it,social,light,Ascoltare per un anno la storia del primo lavoro di vostro padre,Ascoltare per un anno la storia della scuola di vostra madre
+wyr-new-20261031-20-10,yours,it,social,light,Essere il parente che tutti chiamano per montare i mobili,Essere il parente che tutti chiamano per organizzare le feste
+wyr-new-20261031-20-11,yours,it,dilemmas,tough,Scoprire che i genitori hanno un figlio preferito e siete voi,Scoprire che i genitori hanno un figlio preferito e non siete voi
+wyr-new-20261031-20-12,yours,it,social,tough,Dire una verità scomoda durante il pranzo di Natale,Tacere quella verità per mantenere la pace tra i parenti
+wyr-new-20261031-20-13,yours,it,social,tough,Essere coinvolti in ogni litigio tra fratelli,Essere esclusi da ogni decisione importante della famiglia
+wyr-new-20261031-20-14,yours,it,money,tough,Accettare un'eredità che genera risentimenti tra cugini,Rinunciare all'eredità per conservare i rapporti tra cugini
+wyr-new-20261031-20-15,yours,it,social,tough,Avere un parente che vi presta soldi ma controlla ogni spesa,Avere un parente che vi aiuta ma racconta a tutti il favore
+wyr-new-20261031-20-16,yours,it,social,tough,Difendere un fratello che ha mentito ai genitori,Dire la verità ai genitori perdendo la fiducia di vostro fratello
+wyr-new-20261031-20-17,yours,it,social,tough,Ospitare per anni parenti che ignorano le vostre regole,Restare ospiti di parenti che decidono ogni vostra abitudine
+wyr-new-20261031-20-18,yours,it,social,tough,Essere sempre presenti per la famiglia sacrificando il tempo libero,Conservare il tempo libero deludendo spesso la famiglia
+wyr-new-20261031-20-19,yours,it,social,tough,Sapere cosa i parenti criticano di voi quando non ci siete,Far conoscere ai parenti ogni giudizio che avete espresso su di loro
+wyr-new-20261031-20-20,yours,it,social,tough,Essere ricordati in famiglia per una scelta coraggiosa ma divisiva,Essere amati da tutti senza aver mai scelto per voi stessi
+wyr-new-20261031-21-01,yours,it,lifestyle,light,Avere un coinquilino che etichetta tutto nel frigorifero,Avere un coinquilino che riordina tutto per colore
+wyr-new-20261031-21-02,yours,it,lifestyle,light,Vivere in una casa con cucina enorme ma bagno minuscolo,Vivere in una casa con bagno enorme ma cucina minuscola
+wyr-new-20261031-21-03,yours,it,lifestyle,light,Avere vicini che suonano il pianoforte ogni mattina,Avere vicini che fanno karaoke ogni sera
+wyr-new-20261031-21-04,yours,it,lifestyle,light,Condividere il divano con chi sceglie sempre documentari,Condividere il divano con chi sceglie sempre cartoni animati
+wyr-new-20261031-21-05,yours,it,lifestyle,light,Avere un balcone bellissimo ma pieno di piccioni curiosi,Avere un giardino bellissimo ma pieno di gatti invadenti
+wyr-new-20261031-21-06,yours,it,lifestyle,light,Usare una lavatrice che canta durante ogni lavaggio,Usare un aspirapolvere che commenta ogni stanza
+wyr-new-20261031-21-07,yours,it,lifestyle,light,Avere un coinquilino ossessionato dalle piante,Avere un coinquilino ossessionato dai soprammobili
+wyr-new-20261031-21-08,yours,it,lifestyle,light,Abitare al piano terra con finestre enormi,Abitare all'ultimo piano senza ascensore
+wyr-new-20261031-21-09,yours,it,lifestyle,light,Avere il salotto sempre perfettamente illuminato,Avere la camera sempre perfettamente silenziosa
+wyr-new-20261031-21-10,yours,it,lifestyle,light,Scambiare il vostro balcone con una terrazza condivisa,Scambiare la vostra cantina con un ripostiglio in cucina
+wyr-new-20261031-21-11,yours,it,lifestyle,tough,Dividere casa con chi non paga mai in tempo le bollette,Dividere casa con chi vi presenta ogni spesa al centesimo
+wyr-new-20261031-21-12,yours,it,social,tough,Avere un vicino che sposta mobili durante le vostre riunioni,Avere un vicino che prova la batteria quando volete dormire
+wyr-new-20261031-21-13,yours,it,lifestyle,tough,Conservare una casa perfetta ma senza poter ospitare amici,Vivere in una casa scomoda potendo ospitare chiunque
+wyr-new-20261031-21-14,yours,it,lifestyle,tough,Essere costretti a condividere ogni armadio,Essere costretti a condividere ogni dispositivo elettronico
+wyr-new-20261031-21-15,yours,it,lifestyle,tough,Scoprire che il coinquilino legge le vostre lettere,Scoprire che il vicino ascolta ogni vostra telefonata
+wyr-new-20261031-21-16,yours,it,social,tough,Avere vicini gentilissimi che entrano sempre senza avvisare,Avere vicini riservatissimi che non vi aiutano mai
+wyr-new-20261031-21-17,yours,it,lifestyle,tough,Perdere ogni diritto di scegliere i mobili di casa,Dover cambiare tutti i mobili a ogni nuovo coinquilino
+wyr-new-20261031-21-18,yours,it,money,tough,Pagare poco affitto ma vivere senza alcuna privacy,Pagare tantissimo affitto per vivere completamente soli
+wyr-new-20261031-21-19,yours,it,lifestyle,tough,Vivere in un condominio che decide ogni rumore ammesso,Vivere in un condominio senza regole dove nessuno dorme
+wyr-new-20261031-21-20,yours,it,lifestyle,tough,Restare nella casa dei vostri ricordi ma lontani da tutto,Trasferirvi in una casa nuova perfetta senza ricordi personali
+wyr-new-20261031-22-01,yours,it,lifestyle,light,Viaggiare sempre vicino al finestrino ma sopra l'ala,Viaggiare sempre lato corridoio ma vicino alla toilette
+wyr-new-20261031-22-02,yours,it,lifestyle,light,Avere una valigia che si prepara da sola ma sceglie i colori,Avere una valigia perfetta che pesa sempre troppo
+wyr-new-20261031-22-03,yours,it,lifestyle,light,Alloggiare in hotel di lusso senza vista,Alloggiare in pensioni semplici con panorami incredibili
+wyr-new-20261031-22-04,yours,it,lifestyle,light,Fare sempre vacanze di tre giorni in luoghi lontanissimi,Fare sempre vacanze di due settimane nella vostra regione
+wyr-new-20261031-22-05,yours,it,lifestyle,light,Trovare ogni museo aperto ma con code lunghe,Trovare ogni museo vuoto ma con una sala sempre chiusa
+wyr-new-20261031-22-06,yours,it,lifestyle,light,Avere una guida turistica che racconta troppe curiosità,Avere una guida turistica che parla soltanto per indovinelli
+wyr-new-20261031-22-07,yours,it,lifestyle,light,Visitare città bellissime quando piove,Visitare città ordinarie con un tempo perfetto
+wyr-new-20261031-22-08,yours,it,lifestyle,light,Avere ogni biglietto aereo scontato ma partire all'alba,Avere ogni treno scontato ma viaggiare soltanto di sera
+wyr-new-20261031-22-09,yours,it,lifestyle,light,Mangiare sempre benissimo in viaggio ma perdere le mappe,Orientarvi sempre benissimo ma scegliere ristoranti mediocri
+wyr-new-20261031-22-10,yours,it,lifestyle,light,Fare il viaggio perfetto senza poter scattare fotografie,Scattare foto perfette durante un viaggio pieno di imprevisti
+wyr-new-20261031-22-11,yours,it,survival,tough,Visitare ogni paese del mondo senza potervi fermare più di un giorno,Vivere un anno nel vostro paese preferito senza poterlo lasciare
+wyr-new-20261031-22-12,yours,it,lifestyle,tough,Partire per un'avventura magnifica con persone che vi criticano,Restare in una meta modesta con la compagnia che amate
+wyr-new-20261031-22-13,yours,it,survival,tough,Perdere i bagagli prima di una vacanza di lusso,Perdere tutte le prenotazioni prima di una vacanza avventurosa
+wyr-new-20261031-22-14,yours,it,lifestyle,tough,Sapere sempre cosa vedrete ma non poter cambiare programma,Non sapere mai la meta fino al momento della partenza
+wyr-new-20261031-22-15,yours,it,lifestyle,tough,Accettare un viaggio gratis in cui tutti scelgono per voi,Pagare il viaggio dei sogni decidendo tutto da soli
+wyr-new-20261031-22-16,yours,it,lifestyle,tough,Vivere in un paese che amate senza poter tornare spesso a casa,Restare a casa potendo viaggiare soltanto nei fine settimana
+wyr-new-20261031-22-17,yours,it,lifestyle,tough,Conoscere mille luoghi senza farvi mai nuovi amici,Fare amicizia ovunque ma visitare pochissimi posti
+wyr-new-20261031-22-18,yours,it,lifestyle,tough,Avere un passaporto per ogni luogo ma non poter invitare nessuno,Poter invitare tutti ma visitare soltanto tre paesi
+wyr-new-20261031-22-19,yours,it,money,tough,Partire con il vostro rivale e tornare con un'amicizia nuova,Partire con un amico e scoprire che vi rende incompatibili
+wyr-new-20261031-22-20,yours,it,lifestyle,tough,Trovare il posto più bello della Terra e non poterci tornare,Potervi tornare ogni anno senza poterlo descrivere a nessuno
+wyr-new-20261031-23-01,yours,it,social,light,Essere responsabili della musica a ogni compleanno,Essere responsabili dei giochi a ogni compleanno
+wyr-new-20261031-23-02,yours,it,social,light,Ricevere un invito con un codice di abbigliamento incomprensibile,Ricevere un invito senza sapere mai a che ora finisce la festa
+wyr-new-20261031-23-03,yours,it,social,light,Mangiare sempre la torta prima del brindisi,Fare sempre il brindisi prima di sapere chi si festeggia
+wyr-new-20261031-23-04,yours,it,silly,light,Avere un fotografo che vi segue soltanto al buffet,Avere un fotografo che vi segue soltanto quando ballate
+wyr-new-20261031-23-05,yours,it,social,light,Partecipare a una festa in maschera dove nessuno è mascherato,Partecipare a una cena elegante vestiti da personaggio famoso
+wyr-new-20261031-23-06,yours,it,social,light,Dover scegliere ogni volta il primo ballo della serata,Dover scegliere ogni volta l'ultima canzone della serata
+wyr-new-20261031-23-07,yours,it,social,light,Ricevere sempre regali con biglietti lunghissimi,Ricevere sempre biglietti bellissimi ma nessun regalo
+wyr-new-20261031-23-08,yours,it,social,light,Essere invitati a matrimoni con buffet interminabili,Essere invitati a matrimoni con discorsi interminabili
+wyr-new-20261031-23-09,yours,it,social,light,Passare la festa accanto a un cugino chiacchierone,Passare la festa accanto a un collega che non parla mai
+wyr-new-20261031-23-10,yours,it,social,light,Indossare sempre scarpe scomode alle celebrazioni,Indossare sempre vestiti troppo eleganti alle celebrazioni
+wyr-new-20261031-23-11,yours,it,social,tough,Fare un brindisi improvvisato davanti a cento sconosciuti,Cantare una canzone scelta dagli invitati davanti a cento sconosciuti
+wyr-new-20261031-23-12,yours,it,love,tough,Scoprire che avete invitato per errore due ex alla stessa festa,Scoprire che avete dimenticato l'invito della persona più importante
+wyr-new-20261031-23-13,yours,it,social,tough,Dover dire pubblicamente perché non vi piace la torta nuziale,Dover dire pubblicamente perché non vi piace la musica degli sposi
+wyr-new-20261031-23-14,yours,it,social,tough,Essere l'unico invitato che conosce una sorpresa imbarazzante,Essere l'unico invitato escluso da una sorpresa importante
+wyr-new-20261031-23-15,yours,it,money,tough,Pagare l'intero banchetto per scegliere tutti gli invitati,Partecipare gratis al banchetto senza scegliere nemmeno il vostro posto
+wyr-new-20261031-23-16,yours,it,social,tough,Essere ricordati per un discorso sincerissimo che rovina l'atmosfera,Essere ricordati per un discorso falso che commuove tutti
+wyr-new-20261031-23-17,yours,it,social,tough,Dimenticare ogni volta un anniversario importante,Ricordare ogni anniversario ma sbagliare sempre il nome dei festeggiati
+wyr-new-20261031-23-18,yours,it,social,tough,Dover scegliere chi escludere da un matrimonio molto piccolo,Dover invitare tutti rinunciando alla festa che desideravate
+wyr-new-20261031-23-19,yours,it,social,tough,Rivelare un segreto durante un matrimonio per proteggere un amico,Tacere quel segreto per non rovinare il matrimonio
+wyr-new-20261031-23-20,yours,it,social,tough,Festeggiare sempre i successi degli altri ma mai i vostri,Avere grandi feste per voi senza nessuno con cui condividerle davvero
+wyr-new-20261031-24-01,yours,it,silly,light,Avere un cane che vi sveglia soltanto con abbracci,Avere un gatto che vi saluta soltanto con inchini
+wyr-new-20261031-24-02,yours,it,fantasy,light,Capire i miagolii senza poter parlare ai gatti,Capire i latrati senza poter parlare ai cani
+wyr-new-20261031-24-03,yours,it,silly,light,Avere un pappagallo che corregge ogni vostro errore,Avere un criceto che giudica le vostre scelte di arredamento
+wyr-new-20261031-24-04,yours,it,silly,light,Convivere con una tartaruga che vuole sempre uscire,Convivere con un coniglio che vuole sempre stare in casa
+wyr-new-20261031-24-05,yours,it,silly,light,Avere un animale che vi porta le ciabatte sbagliate,Avere un animale che nasconde le ciabatte in posti ingegnosi
+wyr-new-20261031-24-06,yours,it,fantasy,light,Capire cosa pensano le api quando lavorano,Capire cosa pensano le formiche quando trasportano cibo
+wyr-new-20261031-24-07,yours,it,silly,light,Avere un gatto che si comporta come un maggiordomo,Avere un cane che si comporta come un ispettore di polizia
+wyr-new-20261031-24-08,yours,it,silly,light,Ricevere ogni giorno un complimento da un corvo,Ricevere ogni giorno una critica da un gufo
+wyr-new-20261031-24-09,yours,it,silly,light,Poter discutere con i pesci del vostro acquario,Poter discutere con gli uccelli sul vostro balcone
+wyr-new-20261031-24-10,yours,it,silly,light,Avere una capra che vi segue soltanto al supermercato,Avere un alpaca che vi segue soltanto in biblioteca
+wyr-new-20261031-24-11,yours,it,silly,tough,Far parlare tutti gli animali domestici ma sentire ogni loro lamentela,Capire tutti gli animali selvatici senza poterli avvicinare
+wyr-new-20261031-24-12,yours,it,silly,tough,Ospitare per un anno un animale che vi copia ogni gesto,Ospitare per un anno un animale che vi contraddice a ogni frase
+wyr-new-20261031-24-13,yours,it,silly,tough,Scoprire che il vostro animale preferisce il vostro vicino,Scoprire che tutti gli animali vi amano ma i vicini vi evitano
+wyr-new-20261031-24-14,yours,it,silly,tough,Avere un cane che sa dove siete ma racconta tutto agli amici,Avere un gatto che sa i vostri segreti ma li mostra con cartelli
+wyr-new-20261031-24-15,yours,it,silly,tough,Poter salvare ogni animale smarrito senza sapere di chi è,Sapere sempre dov'è ogni animale smarrito senza poterlo raggiungere
+wyr-new-20261031-24-16,yours,it,lifestyle,tough,Rinunciare ai viaggi per vivere con il vostro animale ideale,Viaggiare ovunque senza poter avere animali domestici
+wyr-new-20261031-24-17,yours,it,silly,tough,Avere un animale parlante che vi difende sempre anche quando avete torto,Avere un animale parlante che vi critica anche quando avete ragione
+wyr-new-20261031-24-18,yours,it,silly,tough,Avere un cavallo che sceglie per voi ogni percorso,Avere un pappagallo che decide per voi ogni conversazione
+wyr-new-20261031-24-19,yours,it,silly,tough,Essere conosciuti come i migliori amici degli animali,Essere conosciuti come i migliori addestratori senza animali amici
+wyr-new-20261031-24-20,yours,it,silly,tough,Trascorrere un anno capendo ogni animale ma non le persone,Trascorrere un anno capendo ogni persona ma non gli animali
+wyr-new-20261031-25-01,yours,it,love,light,Avere un appuntamento romantico durante un blackout,Avere un appuntamento romantico durante una nevicata improvvisa
+wyr-new-20261031-25-02,yours,it,love,light,Ricevere un biglietto malizioso senza firma,Ricevere un invito romantico senza indicazione del luogo
+wyr-new-20261031-25-03,yours,it,love,light,Fare il primo passo con una persona molto timida,Aspettare il primo passo di una persona molto sicura di sé
+wyr-new-20261031-25-04,yours,it,love,light,Avere un partner che inventa soprannomi imbarazzanti,Avere un partner che scrive dediche romantiche esagerate
+wyr-new-20261031-25-05,yours,it,love,light,Passare una serata di flirt senza usare il telefono,Passare una serata di flirt potendo comunicare soltanto per messaggi
+wyr-new-20261031-25-06,yours,it,love,light,Avere una cotta che comunica soltanto con biglietti illustrati,Avere una cotta che comunica soltanto con citazioni di film
+wyr-new-20261031-25-07,yours,it,silly,light,Essere invitati a ballare da chi vi piace ma non conoscere i passi,Invitare chi vi piace a cantare senza conoscere la canzone
+wyr-new-20261031-25-08,yours,it,love,light,Scegliere la destinazione di una cena segreta con la vostra cotta,Scegliere a sorpresa il menu di una cena romantica con la vostra cotta
+wyr-new-20261031-25-09,yours,it,love,light,Vivere una settimana di appuntamenti senza baci,Vivere una settimana di baci romantici senza appuntamenti
+wyr-new-20261031-25-10,yours,it,love,light,Avere una cotta che vi manda poesie incomprensibili,Avere una cotta che vi manda meme romantici ogni mattina
+wyr-new-20261031-25-11,yours,it,love,tough,Scoprire che la vostra cotta ha letto tutte le vecchie dediche romantiche,Scoprire che la vostra cotta ha ascoltato tutti i vostri vocali di flirt
+wyr-new-20261031-25-12,yours,it,love,tough,Confessare un desiderio romantico che avete sempre nascosto,Ascoltare un desiderio romantico che preferireste non conoscere
+wyr-new-20261031-25-13,yours,it,love,tough,Avere una chimica irresistibile con una persona molto lontana,Avere una grande compatibilità con una persona che non vi attrae
+wyr-new-20261031-25-14,yours,it,love,tough,Vivere una serata indimenticabile sapendo che resterà unica,Vivere appuntamenti ordinari sapendo che dureranno per anni
+wyr-new-20261031-25-15,yours,it,love,tough,Far leggere al partner un vostro vecchio messaggio piccante,Far ascoltare al partner una vostra vecchia dichiarazione maldestra
+wyr-new-20261031-25-16,yours,it,love,tough,Accettare una frequentazione segreta che non potete raccontare,Rinunciare alla frequentazione per poter vivere alla luce del sole
+wyr-new-20261031-25-17,yours,it,love,tough,Conoscere ogni fantasia romantica del partner senza poterla realizzare,Realizzare una fantasia senza poterne mai conoscere il significato
+wyr-new-20261031-25-18,yours,it,dilemmas,tough,Essere sinceri sulle vostre attrazioni passate e affrontare la gelosia,Tacere il passato rischiando di creare sospetti in futuro
+wyr-new-20261031-25-19,yours,it,love,tough,Avere un momento intimo perfetto che nessuno dei due ricorderà,Conservare il ricordo di un momento intimo che non ripeterete mai
+wyr-new-20261031-25-20,yours,it,love,tough,Scegliere una relazione appassionata ma senza progetti condivisi,Scegliere una relazione stabile ma senza slanci romantici
+wyr-new-20261031-26-01,yours,it,food,light,"Prendere sempre il caffè gratis, ma ordinandolo con una rima","Prendere sempre la pizza gratis, ma scegliendola a occhi chiusi"
+wyr-new-20261031-26-02,yours,it,silly,light,"Avere treni gratis, ma dover ringraziare ogni sedile prima di scendere","Avere autobus gratis, ma salutare ogni passeggero prima di salire"
+wyr-new-20261031-26-03,yours,it,silly,light,"Entrare gratis al cinema, ma dover presentare il film agli spettatori","Entrare gratis a teatro, ma dover annunciare l'intervallo in rima"
+wyr-new-20261031-26-04,yours,it,money,light,"Ottenere sempre uno sconto, ma dover cantare l'importo alla cassa","Ottenere sempre un regalo, ma doverne indovinare il peso davanti a tutti"
+wyr-new-20261031-26-05,yours,it,silly,light,"Non fare mai la fila, ma dover raccontare una barzelletta a chi aspetta","Trovare sempre posto, ma dover fare un inchino prima di sedervi"
+wyr-new-20261031-26-06,yours,it,food,light,"Ricevere ogni mattina un cornetto gratis, ma indovinare il ripieno","Ricevere ogni sera un gelato gratis, ma scegliere il gusto con un dado"
+wyr-new-20261031-26-07,yours,it,silly,light,"Avere il Wi-Fi perfetto, ma dover dare un nome ridicolo al router","Avere la TV perfetta, ma dover annunciare ogni cambio di canale"
+wyr-new-20261031-26-08,yours,it,silly,light,"Poter saltare le pubblicità, ma doverne imitare il jingle","Poter saltare i titoli di coda, ma doverne inventare uno finale"
+wyr-new-20261031-26-09,yours,it,silly,light,"Avere sempre il tavolo migliore, ma ordinare usando soltanto proverbi","Avere sempre la camera migliore, ma fare un discorso alla reception"
+wyr-new-20261031-26-10,yours,it,silly,light,"Non perdere mai le chiavi, ma doverle chiamare per nome ogni volta","Non perdere mai gli occhiali, ma doverli salutare prima di usarli"
+wyr-new-20261031-26-11,yours,it,money,tough,"Guadagnare 100 € a ogni riunione, ma doverla aprire con un balletto","Guadagnare 100 € a ogni cena, ma doverla chiudere con una poesia"
+wyr-new-20261031-26-12,yours,it,school-work,tough,"Ricevere una promozione automatica, ma annunciarla vestiti da mascotte","Ricevere premi ogni mese, ma ritirarli sempre con una canzone"
+wyr-new-20261031-26-13,yours,it,silly,tough,"Essere serviti ovunque per primi, ma dover spiegare una vostra figuraccia","Essere invitati ovunque gratis, ma dover raccontare una vostra gaffe"
+wyr-new-20261031-26-14,yours,it,silly,tough,"Avere consegne istantanee, ma il corriere annuncia a tutti cosa comprate","Avere taxi gratuiti, ma il conducente racconta a tutti la destinazione"
+wyr-new-20261031-26-15,yours,it,silly,tough,Essere ricchi senza poter dire la parola «soldi»,Essere famosi senza poter pronunciare il vostro nome
+wyr-new-20261031-26-16,yours,it,silly,tough,"Avere cene gratis per sempre, ma dover giudicare il piatto davanti allo chef","Avere vacanze gratis per sempre, ma dover fare ogni giorno una guida improvvisata"
+wyr-new-20261031-26-17,yours,it,school-work,tough,"Non dover lavorare il lunedì, ma imitare il capo a ogni riunione","Non lavorare il venerdì, ma raccontare una gaffe ogni giovedì"
+wyr-new-20261031-26-18,yours,it,silly,tough,"Ottenere sempre il voto più alto, ma spiegare ogni risposta cantando","Vincere ogni quiz, ma far scegliere le risposte al vostro rivale"
+wyr-new-20261031-26-19,yours,it,silly,tough,"Avere accesso a ogni evento, ma ricevere un soprannome scelto dal pubblico","Avere accesso a ogni VIP, ma indossare un cartello con una vostra figuraccia"
+wyr-new-20261031-26-20,yours,it,silly,tough,"Poter dormire fino a tardi ogni giorno, ma svegliarvi con un discorso pubblico","Poter andare a letto presto, ma fare un karaoke prima di addormentarvi"
+wyr-new-20261031-27-01,yours,it,lifestyle,light,Avere il telefono carico per sempre ma senza suoneria,Avere internet velocissimo ma senza notifiche
+wyr-new-20261031-27-02,yours,it,lifestyle,light,Ricevere un riassunto di ogni chat di gruppo,Ricevere un riassunto di ogni video lungo che vi mandano
+wyr-new-20261031-27-03,yours,it,silly,light,Usare un assistente IA che inventa soprannomi per tutti,Usare un assistente IA che risponde sempre in rima
+wyr-new-20261031-27-04,yours,it,lifestyle,light,Avere la tastiera che corregge tutti gli errori,Avere il microfono che elimina ogni rumore di fondo
+wyr-new-20261031-27-05,yours,it,lifestyle,light,Far tradurre ogni video mentre lo guardate,Avere sottotitoli perfetti durante ogni chiamata
+wyr-new-20261031-27-06,yours,it,lifestyle,light,Non dover ricordare mai più una password,Non dover cercare mai più un file perso
+wyr-new-20261031-27-07,yours,it,lifestyle,light,Avere una fotocamera che migliora soltanto i paesaggi,Avere una fotocamera che migliora soltanto le foto di gruppo
+wyr-new-20261031-27-08,yours,it,lifestyle,light,Ricevere una notifica quando state perdendo tempo,Ricevere una notifica quando avete bisogno di una pausa
+wyr-new-20261031-27-09,yours,it,lifestyle,light,Scegliere playlist perfette con un solo comando,Scegliere film perfetti con una sola domanda
+wyr-new-20261031-27-10,yours,it,lifestyle,light,Avere un navigatore che racconta curiosità sulle strade,Avere un navigatore che suggerisce sempre una pausa panoramica
+wyr-new-20261031-27-11,yours,it,lifestyle,tough,Vivere senza smartphone per due anni ricevendo una grossa somma,Tenere lo smartphone rinunciando a tutti i social per due anni
+wyr-new-20261031-27-12,yours,it,lifestyle,tough,Avere un clone digitale che risponde ai messaggi a vostra insaputa,Rispondere voi a ogni messaggio scritto da un clone digitale
+wyr-new-20261031-27-13,yours,it,social,tough,Sapere sempre quali dati raccolgono le app su di voi,Impedire ogni raccolta dati rinunciando alle app che amate
+wyr-new-20261031-27-14,yours,it,lifestyle,tough,Avere ogni foto perfettamente archiviata ma visibile agli amici,Avere ogni foto privata ma impossibile da ritrovare velocemente
+wyr-new-20261031-27-15,yours,it,lifestyle,tough,Usare un algoritmo che sceglie sempre cosa vi piace,Scegliere tutto da soli senza mai ricevere suggerimenti
+wyr-new-20261031-27-16,yours,it,fame,tough,Far conoscere pubblicamente tutto il vostro tempo online,Far conoscere pubblicamente ogni acquisto fatto online
+wyr-new-20261031-27-17,yours,it,lifestyle,tough,Avere un assistente IA che vi protegge mentendovi sulle notizie,Avere un assistente IA che dice tutto senza filtrare nulla
+wyr-new-20261031-27-18,yours,it,lifestyle,tough,Ricevere il telefono più avanzato ma cambiare numero ogni mese,Tenere il vostro vecchio telefono senza mai cambiarlo
+wyr-new-20261031-27-19,yours,it,lifestyle,tough,Poter cancellare ogni vostro errore online ma perdere i ricordi associati,Conservare tutti gli errori online per poter imparare da essi
+wyr-new-20261031-27-20,yours,it,lifestyle,tough,Vivere con tecnologia perfetta che decide ogni vostra giornata,Vivere senza algoritmi ma scegliere tutto perdendo molto tempo
+wyr-new-20261031-28-01,yours,it,silly,light,Sognare ogni notte di vincere un quiz assurdo,Sognare ogni notte di esplorare un museo impossibile
+wyr-new-20261031-28-02,yours,it,fantasy,light,Ricordare tutti i sogni divertenti al risveglio,Poter riprendere il sogno della notte precedente
+wyr-new-20261031-28-03,yours,it,fantasy,light,Avere un cuscino che sceglie la musica ideale per voi,Avere una coperta che racconta storie prima di dormire
+wyr-new-20261031-28-04,yours,it,fantasy,light,Sognare ogni notte di tradurre il linguaggio degli alberi,Sognare ogni notte di dirigere un coro di oggetti parlanti
+wyr-new-20261031-28-05,yours,it,fantasy,light,Vedere un trailer dei sogni prima di addormentarvi,Scegliere il genere dei sogni prima di addormentarvi
+wyr-new-20261031-28-06,yours,it,fantasy,light,Dormire sempre bene ma con sogni noiosissimi,Dormire un po' meno ma con sogni molto divertenti
+wyr-new-20261031-28-07,yours,it,fantasy,light,Incontrare nei sogni i personaggi dei vostri libri,Visitare nei sogni le ambientazioni dei vostri film
+wyr-new-20261031-28-08,yours,it,silly,light,Ricevere al mattino una recensione dei vostri sogni,Ricevere al mattino un disegno del sogno più curioso
+wyr-new-20261031-28-09,yours,it,fantasy,light,Sognare sempre un finale alternativo ai vostri videogiochi,Sognare sempre un episodio extra delle vostre serie
+wyr-new-20261031-28-10,yours,it,fantasy,light,Poter raccontare un sogno facendolo vedere come un film,Poter disegnare un sogno con dettagli perfetti
+wyr-new-20261031-28-11,yours,it,fantasy,tough,Avere sogni lucidi soltanto durante i riposini,Avere sogni vividi ogni notte ma non poterli ricordare
+wyr-new-20261031-28-12,yours,it,dilemmas,tough,Rivivere in sogno il momento più felice di ogni settimana,Inventare in sogno una felicità che non potrete vivere da svegli
+wyr-new-20261031-28-13,yours,it,fantasy,tough,Non aver più bisogno di dormire ma non poter mai sognare,Dormire dieci ore ogni notte con sogni che controllate
+wyr-new-20261031-28-14,yours,it,fantasy,tough,Sapere che ogni sogno anticipa un vostro dubbio futuro,Sapere che ogni sogno rivela un vostro desiderio nascosto
+wyr-new-20261031-28-15,yours,it,fantasy,tough,Passare ogni notte in un sogno spettacolare senza poter scegliere,Scegliere ogni sogno vivendo sempre la stessa ambientazione
+wyr-new-20261031-28-16,yours,it,fantasy,tough,Scoprire i sogni che gli amici fanno su di voi,Lasciare che gli amici conoscano i sogni che fate su di loro
+wyr-new-20261031-28-17,yours,it,fantasy,tough,Vivere una seconda vita perfetta soltanto nei sogni,Vivere una vita ordinaria da svegli senza poter sognare
+wyr-new-20261031-28-18,yours,it,fantasy,tough,Avere incubi innocui che vi insegnano qualcosa di utile,Avere sogni bellissimi che vi fanno rimpiangere il risveglio
+wyr-new-20261031-28-19,yours,it,fantasy,tough,Poter dimenticare il vostro sogno peggiore ma anche il migliore,Ricordare tutti i sogni senza poterli raccontare a nessuno
+wyr-new-20261031-28-20,yours,it,fantasy,tough,Svegliarvi sempre riposati ma dimenticare ogni sogno,Ricordare ogni sogno ma svegliarvi ogni volta un po' stanchi
+wyr-new-20261031-29-01,yours,it,lifestyle,light,Conoscere sempre il titolo della vostra prossima serie preferita,Conoscere sempre il titolo del vostro prossimo gioco preferito
+wyr-new-20261031-29-02,yours,it,lifestyle,light,Avere ogni film in streaming ma solo con sottotitoli,Avere ogni serie in streaming ma soltanto in lingua originale
+wyr-new-20261031-29-03,yours,it,lifestyle,light,Giocare a tutti i videogiochi il giorno prima dell'uscita,Vedere tutti i film il giorno prima dell'uscita
+wyr-new-20261031-29-04,yours,it,lifestyle,light,Ricevere ogni anno un episodio extra della serie che amate,Ricevere ogni anno un capitolo extra del libro che amate
+wyr-new-20261031-29-05,yours,it,lifestyle,light,Poter partecipare come comparsa al vostro film preferito,Poter disegnare un personaggio nel vostro videogioco preferito
+wyr-new-20261031-29-06,yours,it,lifestyle,light,Avere gadget gratuiti di una saga scelta a caso,Avere un gadget rarissimo della vostra saga preferita
+wyr-new-20261031-29-07,yours,it,lifestyle,light,Vedere le scene tagliate di ogni film,Giocare ai livelli rimossi di ogni videogioco
+wyr-new-20261031-29-08,yours,it,lifestyle,light,Ricevere spoiler soltanto dei personaggi secondari,Ricevere spoiler soltanto dei finali che non vi interessano
+wyr-new-20261031-29-09,yours,it,fame,light,Poter incontrare l'attore di un personaggio che detestate,Poter incontrare l'autore di un'opera che amate
+wyr-new-20261031-29-10,yours,it,lifestyle,light,Essere i primi a recensire ogni nuovo gioco,Essere gli ultimi a scoprire ogni nuovo gioco
+wyr-new-20261031-29-11,yours,it,lifestyle,tough,Perdere ogni anno tutti i salvataggi di un gioco che amate,Perdere ogni anno la lista di tutte le serie che volete guardare
+wyr-new-20261031-29-12,yours,it,lifestyle,tough,Conoscere in anticipo ogni finale senza poterlo dimenticare,Non conoscere alcun finale ma dimenticare sempre l'inizio
+wyr-new-20261031-29-13,yours,it,lifestyle,tough,Essere famosi nel fandom sbagliato,Restare sconosciuti nel fandom cui avete dedicato anni
+wyr-new-20261031-29-14,yours,it,sports,tough,Vincere un torneo di un gioco che non vi piace,Arrivare ultimi nel torneo del gioco che amate più di tutto
+wyr-new-20261031-29-15,yours,it,lifestyle,tough,Vedere cancellata la vostra serie preferita a un episodio dal finale,Vedere il finale ma non poter mai rivedere nessun episodio
+wyr-new-20261031-29-16,yours,it,lifestyle,tough,Avere tutti i DLC gratis ma non poter scegliere il gioco,Poter scegliere il gioco perfetto ma pagare ogni contenuto extra
+wyr-new-20261031-29-17,yours,it,lifestyle,tough,Diventare il protagonista della vostra saga preferita senza poterne uscire,Essere spettatori invisibili di ogni momento della saga
+wyr-new-20261031-29-18,yours,it,lifestyle,tough,Rivelare uno spoiler importante per ottenere un premio enorme,Rinunciare al premio per proteggere la sorpresa degli altri
+wyr-new-20261031-29-19,yours,it,social,tough,Avere una community gigantesca che litiga su ogni vostra opinione,Avere una community piccola che non contesta mai nessuno
+wyr-new-20261031-29-20,yours,it,lifestyle,tough,Poter modificare il finale di un capolavoro senza vedere la reazione,Lasciare il finale originale sapendo che tutti ne resteranno delusi
+wyr-new-20261031-30-01,yours,it,dilemmas,light,Conoscere la vostra principale qualità senza sapere come usarla,Scoprire un vostro talento nascosto senza sapere come svilupparlo
+wyr-new-20261031-30-02,yours,it,dilemmas,light,Avere ogni settimana un'ora per riflettere senza distrazioni,Avere ogni mese una giornata intera per fare una nuova esperienza
+wyr-new-20261031-30-03,yours,it,dilemmas,light,Sapere sempre quale decisione vi farà crescere di più,Sapere sempre quale decisione vi renderà più sereni
+wyr-new-20261031-30-04,yours,it,time-travel,light,Poter vivere una giornata dal punto di vista del vostro io adolescente,Poter vivere una giornata dal punto di vista del vostro io anziano
+wyr-new-20261031-30-05,yours,it,dilemmas,light,Ricevere una risposta sincera a ogni vostra grande domanda,Avere sempre una nuova domanda interessante da esplorare
+wyr-new-20261031-30-06,yours,it,dilemmas,light,Sentirvi pienamente soddisfatti dei piccoli risultati,Sentirvi sempre motivati a raggiungere nuovi traguardi
+wyr-new-20261031-30-07,yours,it,dilemmas,light,Poter discutere con voi stessi di dieci anni fa,Poter discutere con voi stessi fra dieci anni
+wyr-new-20261031-30-08,yours,it,dilemmas,light,Conoscere il luogo in cui vi sentirete più a casa,Conoscere l'attività che vi farà sentire più realizzati
+wyr-new-20261031-30-09,yours,it,dilemmas,light,Sapere perché un incontro vi ha cambiato la vita,Sapere quale vostro gesto ha cambiato la vita di qualcuno
+wyr-new-20261031-30-10,yours,it,dilemmas,light,Avere il tempo per approfondire una sola passione,Poter provare ogni passione senza approfondirne nessuna
+wyr-new-20261031-30-11,yours,it,dilemmas,tough,Raggiungere ogni obiettivo perdendo l'emozione della conquista,Sentire sempre l'emozione della conquista senza raggiungere gli obiettivi
+wyr-new-20261031-30-12,yours,it,dilemmas,tough,Conoscere ogni vostra scelta sbagliata senza poterla correggere,Non sapere quali scelte erano sbagliate ma vivere senza rimpianti
+wyr-new-20261031-30-13,yours,it,fame,tough,Lasciare un segno duraturo senza sentirvi mai felici,Essere profondamente felici senza lasciare alcuna traccia pubblica
+wyr-new-20261031-30-14,yours,it,dilemmas,tough,Vivere seguendo sempre la logica anche contro i vostri affetti,Seguire sempre gli affetti anche quando la logica vi sconsiglia
+wyr-new-20261031-30-15,yours,it,dilemmas,tough,Essere liberi di cambiare strada senza poter costruire stabilità,Avere stabilità assoluta senza poter cambiare strada
+wyr-new-20261031-30-16,yours,it,dilemmas,tough,Scoprire la verità più importante della vostra vita e soffrirne,Conservare una convinzione rassicurante senza poterla verificare
+wyr-new-20261031-30-17,yours,it,dilemmas,tough,Avere un talento eccezionale senza alcuna voglia di usarlo,Avere una passione fortissima senza alcun talento naturale
+wyr-new-20261031-30-18,yours,it,dilemmas,tough,Essere sempre compresi senza poter cambiare idea,Poter cambiare idea liberamente senza sentirvi mai compresi
+wyr-new-20261031-30-19,yours,it,dilemmas,tough,Conoscere tutte le conseguenze delle vostre scelte,Scegliere senza prevedere nulla ma imparare sempre qualcosa
+wyr-new-20261031-30-20,yours,it,fame,tough,"Essere ricordati per ciò che avete fatto, non per chi eravate","Essere amati per chi eravate, non per ciò che avete realizzato"
+wyr-new-20261031-31-01,yours,it,fantasy,light,Poter riconoscere ogni costellazione a occhio nudo,Poter riconoscere ogni specie di albero con un solo sguardo
+wyr-new-20261031-31-02,yours,it,fantasy,light,Conoscere la storia di ogni edificio che attraversate,Conoscere l'origine di ogni oggetto che possedete
+wyr-new-20261031-31-03,yours,it,fantasy,light,Imparare una lingua ascoltando una sola canzone,Imparare uno strumento ascoltando una sola melodia
+wyr-new-20261031-31-04,yours,it,fantasy,light,Scoprire una valle sotterranea popolata da piante luminose,Scoprire una grotta piena di minerali che producono melodie
+wyr-new-20261031-31-05,yours,it,fantasy,light,Sapere come funzionano tutti gli oggetti di casa,Sapere come si costruiscono tutti gli oggetti di casa
+wyr-new-20261031-31-06,yours,it,fantasy,light,Saper risolvere ogni indovinello in pochi secondi,Saper inventare indovinelli che nessuno risolve facilmente
+wyr-new-20261031-31-07,yours,it,fantasy,light,Conoscere la ricetta originale di qualsiasi piatto,Conoscere il nome di ogni ingrediente assaggiato
+wyr-new-20261031-31-08,yours,it,lifestyle,light,Poter visitare ogni museo del mondo gratuitamente,Poter osservare ogni grande laboratorio scientifico al lavoro
+wyr-new-20261031-31-09,yours,it,time-travel,light,Poter vedere un'invenzione di cento anni nel futuro,Poter recuperare una scoperta scientifica dimenticata
+wyr-new-20261031-31-10,yours,it,fantasy,light,Avere un diario che risponde a ogni vostra curiosità,Avere un telescopio che vi mostra ogni luogo inesplorato
+wyr-new-20261031-31-11,yours,it,fantasy,tough,Esplorare un pianeta abitabile senza poter portare strumenti,Visitare un oceano alieno senza poter portare fotografie
+wyr-new-20261031-31-12,yours,it,fantasy,tough,Scoprire un linguaggio sconosciuto senza poterlo insegnare,Decifrare un codice antico senza poter mostrare la soluzione
+wyr-new-20261031-31-13,yours,it,fantasy,tough,Sapere tutto ciò che gli altri hanno scoperto ma non ancora pubblicato,Fare una scoperta unica senza poterla spiegare a nessuno
+wyr-new-20261031-31-14,yours,it,fantasy,tough,Avere memoria perfetta di ogni esperimento che osservate,Poter ripetere ogni esperimento senza commettere errori
+wyr-new-20261031-31-15,yours,it,fantasy,tough,Scoprire una specie immaginaria che soltanto voi potete vedere,Scoprire una città nascosta che nessuno potrà mai visitare
+wyr-new-20261031-31-16,yours,it,fantasy,tough,Ottenere una risposta a una grande domanda senza conoscere il metodo,Conoscere il metodo perfetto senza poter ottenere la risposta
+wyr-new-20261031-31-17,yours,it,fantasy,tough,Poter sperimentare la gravità di qualsiasi pianeta,Poter percepire il tempo come qualsiasi creatura immaginaria
+wyr-new-20261031-31-18,yours,it,dilemmas,tough,Riconoscere subito ogni illusione ma perdere il gusto della sorpresa,Lasciarvi sorprendere da tutto senza distinguere sempre il vero
+wyr-new-20261031-31-19,yours,it,fantasy,tough,Esplorare ogni biblioteca del mondo ma non leggere più narrativa,Leggere ogni romanzo del mondo senza accedere a testi scientifici
+wyr-new-20261031-31-20,yours,it,fantasy,tough,Diventare esperti assoluti di un solo argomento a vostra scelta,Capire le basi di tutte le discipline senza eccellere in nessuna
