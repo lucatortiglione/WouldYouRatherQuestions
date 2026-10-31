@@ -53,7 +53,7 @@ Questa sezione traduce le linee guida in passaggi ripetibili quando si generano 
 
 ### Metadati editoriali (non esportati)
 
-Archivio di lavoro consigliato: `macrotema`, `meccanismo_principale`, `meccanismi_secondari`, `carattere`, `reazione_attesa`, `fascia_tough` (`ordinario` / `forte` / `insopportabile`), `adatta_live`, `esplicito` (sì / no: le domande sessualmente esplicite non vanno in live), `sensibilita`, `famiglia_semantica`, `revisione`, `punteggio_editoriale` e `stato` (`bozza` / `da_rivedere` / `approvata` / `scartata`). Per analizzare la distribuzione, aggiungere `categoria_csv_proposta` e `motivo_classificazione`. Questi valori **non** diventano nuove colonne nel CSV Livecade.
+Archivio di lavoro consigliato: `macrotema`, `meccanismo_principale`, `meccanismi_secondari`, `carattere`, `reazione_attesa`, `fascia_tough` (`ordinario` / `forte` / `insopportabile`), `adatta_live`, `esplicito` (sì / no: per includere o escludere le domande sessualmente esplicite in una live), `sensibilita`, `famiglia_semantica`, `revisione`, `punteggio_editoriale` e `stato` (`bozza` / `da_rivedere` / `approvata` / `scartata`). Per analizzare la distribuzione, aggiungere `categoria_csv_proposta` e `motivo_classificazione`. Questi valori **non** diventano nuove colonne nel CSV Livecade.
 
 ### Verifica automatica e umana
 

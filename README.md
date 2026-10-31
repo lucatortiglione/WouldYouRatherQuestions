@@ -51,7 +51,7 @@ Ogni domanda è un "preferiresti" a due opzioni, destinato al CSV di Livecade.
 | Intestazione CSV | `ref,source,language,category,intensity,optionA,optionB` (7 colonne separate da virgole) |
 | Lingua | `it` |
 | Codifica consigliata | UTF-8 (eventualmente UTF-8 con BOM per Excel) |
-| Pubblico | Adulti, anche in live; le domande sessualmente esplicite restano fuori dalle live |
+| Pubblico | Solo maggiorenni, anche in live; i contenuti sessualmente espliciti sono ammessi |
 | Terza opzione | Nessuna: la scelta è sempre obbligatoria |
 
 Le categorie sono **vincoli tecnici**, non i nomi dei filoni creativi: non inserire nel campo `category` valori come `Spicy`, `Hot`, `Insopportabile` o `Piccante/Hot/Tabù`. Il CSV conserva le sette colonne indicate; le classificazioni creative restano nella guida o in un archivio interno separato.
@@ -80,7 +80,7 @@ Le categorie editoriali sono un secondo livello di classificazione, più preciso
 
 | Categoria editoriale | Contenuto | CSV di riferimento | Altre CSV | Attenzioni |
 | --- | --- | --- | --- | --- |
-| `spicy` | Flirt, desideri e situazioni intime tra adulti consenzienti | `love` | `silly` | Può essere esplicita solo fuori dalla live (tag `esplicito`); in live sempre allusiva |
+| `spicy` | Flirt, desideri e situazioni intime tra adulti consenzienti | `love` | `silly` | Può essere esplicita anche in live (tag `esplicito`); mai minori né situazioni senza consenso |
 | `deep` | Domande riflessive su identità, memoria, valori e scelte di vita | `dilemmas` | `fantasy`, `time-travel`, `lifestyle` | Di norma `light` |
 | `family` | Parenti, suoceri, pranzi della domenica, feste comandate, eredità | `social` | `food`, `love`, `dilemmas` | |
 | `tech` | Smartphone, IA, social, notifiche, privacy, vita digitale | `lifestyle` | `fame`, `social`, `silly` | |
@@ -145,7 +145,7 @@ Una domanda entra nel CSV solo se supera tutti i controlli **e** la selezione ed
 7. Se usa il **Dilemma Insopportabile**: entrambe le opzioni sono da rifiutare, concrete, equilibrate, narrativamente efficaci e senza scappatoie, e c'è almeno un secondo meccanismo concreto?
 8. Provoca almeno una reazione chiara: risata, imbarazzo, disgusto, sorpresa, curiosità o riflessione?
 9. La categoria rispecchia il contenuto dominante e l'intensità (`light` o `tough`) corrisponde al disagio che provoca?
-10. Se contiene riferimenti sessualmente espliciti: riguarda solo adulti consenzienti ed è marcata `esplicito`, così resta fuori dalle live?
+10. Se contiene riferimenti sessualmente espliciti: riguarda solo adulti consenzienti ed è marcata `esplicito`?
 11. È diversa dalle domande **dell'intero archivio** per concetto, non soltanto per parole o inversione A/B?
 12. Ha superato la **valutazione editoriale** (soglia iniziale 4/5) oppure è stata rivalutata e motivatamente approvata?
 13. È stata ammessa per la sua **qualità**, non per raggiungere una quota di categoria o intensità? Contribuisce alla varietà tematica, meccanica o emotiva?

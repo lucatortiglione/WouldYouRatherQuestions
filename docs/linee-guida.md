@@ -188,7 +188,7 @@ I **31 macrotemi principali** sono filoni di progettazione, **non** valori di `c
 | Viaggi & Vacanze | Ambito | Voli, hotel, compagni scomodi, vacanze rovinate e avventura | `lifestyle` | `survival`, `money`, `silly` |
 | Feste & Matrimoni | Ambito | Ricevimenti, compleanni, discorsi, invitati e riti sociali | `social` | `food`, `money`, `love` |
 | Animali & Convivenza Assurda | Ambito | Animali domestici, pet parlanti, convivenza e dilemmi buffi | `silly` | `fantasy`, `lifestyle`, `dilemmas` |
-| Spicy & Sotto le Lenzuola | Ambito | Flirt, desideri e situazioni intime tra adulti consenzienti: allusive in live, anche esplicite fuori dalla live | `love` | `silly` |
+| Spicy & Sotto le Lenzuola | Ambito | Flirt, desideri e situazioni intime tra adulti consenzienti, allusive o esplicite, anche in live | `love` | `silly` |
 | Regole Assurde & Divieti Impossibili | Ambito | Privilegi con clausole ridicole, divieti logici e umiliazioni sociali comiche | `silly` | `money`, `food`, `school-work`, `social`, `lifestyle` |
 | Tecnologia & Dipendenze Digitali | Ambito | Smartphone, IA, privacy, notifiche, algoritmi, vita digitale distopica | `lifestyle` | `fame`, `social`, `silly` |
 | Sonno & Sogni | Ambito | Sogni lucidi, incubi assurdi, notti bizzarre e tempo di riposo | `fantasy` | `silly`, `lifestyle`, `dilemmas` |
@@ -321,7 +321,7 @@ Servono a descrivere l'effetto che un blocco di domande deve avere.
 
 ## Glossario per le live
 
-Preferire formulazioni **allusive, non grafiche e comprensibili**, senza impoverire il dilemma. Gli eufemismi aiutano a moderare il registro; **non garantiscono l'approvazione o la monetizzazione** della piattaforma, che dipendono dal contesto e dalle regole aggiornate.
+Quando una live richiede un registro più prudente, preferire formulazioni **allusive, non grafiche e comprensibili**, senza impoverire il dilemma. Gli eufemismi aiutano a moderare il registro; **non garantiscono l'approvazione o la monetizzazione** della piattaforma, che dipendono dal contesto e dalle regole aggiornate.
 
 | Quando il tema riguarda… | Espressioni consigliate | Accorgimento |
 | --- | --- | --- |
@@ -376,9 +376,9 @@ Problema: "la sua" si riferisce all'amico nominato solo nell'opzione A.
 
 - Il tough può essere molto piccante, cattivo o disturbante, ma gli abusi non vanno mai presentati come situazioni sessuali desiderabili.
 - Niente tragedie vere (lutti, malattie): non fanno ridere, spengono la serata.
-- **Riferimenti sessualmente espliciti:** sono ammessi, purché riguardino solo adulti consenzienti in scenari immaginari. Le domande esplicite si marcano nei metadati con `esplicito` e restano fuori dalle live.
+- **Riferimenti sessualmente espliciti:** sono ammessi, anche in live, perché il pubblico è composto solo da maggiorenni. Riguardano solo adulti consenzienti in scenari immaginari e si marcano nei metadati con `esplicito`, così si possono escludere quando serve.
 - Mai riferimenti sessuali che coinvolgano minori, ambientazioni scolastiche, infanzia o adolescenza, né situazioni senza consenso presentate come desiderabili.
-- In live il tema Spicy resta malizioso e allusivo, mai esplicito: le piattaforme sono severe sui contenuti sessuali, anche solo scritti.
+- Le regole della piattaforma di streaming valgono a prescindere dall'età del pubblico: prima di portare in live domande esplicite, verificare che la piattaforma usata le consenta.
 - "Preferirei morire" è un’etichetta interna: non compare nel testo delle domande.
 - Le situazioni di tradimento, manipolazione o violazione della privacy possono essere scenari di dilemma, ma non vanno normalizzate né proposte come azioni reali da compiere.
 - In giochi di gruppo, consentire sempre di **passare** senza spiegazioni quando il contenuto tocca esperienze personali sensibili: la scelta è obbligatoria solo *all’interno della finzione*.
