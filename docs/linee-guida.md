@@ -248,9 +248,9 @@ Non coincide sempre con **Il Dilemma Insopportabile**: il Male Minore comprende 
 | Patto Biologico & Cinque Sensi | Sonno & Sogni / Caos — fantastico | Solo fantastico, senza malattie o traumi reali |
 | Talenti Inutili & Maledizioni Sociali | Regole Assurde / Caos — fantastico | Effetto assurdo con costo coerente |
 | Regole assurde in ambito scolastico | Regole Assurde / Ufficio & Carriera | `school-work` quando domina il contesto |
-| Crimine & Giustizia | Scheletri nell'Armadio / Verità Brutali | Al momento un filone di prova; non chiedere confessioni vere |
+| Crimine & Giustizia | Scheletri nell'Armadio / Verità Brutali | Sottogenere definitivo su colpe, processi e giustizia immaginari; non chiedere confessioni vere |
 
-**Altri candidati per test, non ancora promossi:** Scuola & Università, Tifo & Passione Sportiva, Arte & Talento, Moda & Apparenza. **Politica, Religione, Morte & Aldilà restano in standby**, anche quando emergono in ricerche esterne. I sottogeneri sono tag creativi e non creano valori di categoria.
+**Promossi a definitivi:** Scuola & Università, Tifo & Passione Sportiva, Arte & Talento e Moda & Apparenza non sono più candidati di prova. Sono categorie editoriali definitive nel [README](../README.md#categorie-editoriali), con i nomi *Scuola, Esami & Università*, *Tifo & Fede Sportiva*, *Arte, Musica & Talento* ed *Estetica, Look & Apparenza*. **Politica, Religione, Morte & Aldilà restano in standby**, anche quando emergono in ricerche esterne. I sottogeneri sono tag creativi e non creano valori di categoria.
 
 ### Esempi di classificazione multi-categoria
 
