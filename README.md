@@ -22,6 +22,8 @@ Linee guida per scrivere le domande "Preferiresti…" del gioco: controverse, pr
 | [Linee guida di scrittura](docs/linee-guida.md) | Anatomia di una domanda, intensità, meccanismi, macrotemi, aggettivi, tono, glossario per le live, regole di qualità e limiti |
 | [Protocollo di generazione e selezione](docs/protocollo.md) | Qualità e distribuzione dinamica, generazione, metadati, punteggio editoriale, controlli periodici, motivazioni |
 | [Live](docs/live.md) | Durata minima, scorta di domande, rotazione, checklist di preparazione della live |
+| [Categorie sperimentali](docs/CATEGORIE_SPERIMENTALI.md) | Categorie editoriali da provare e sovrapposizioni da risolvere prima dell'approvazione |
+
 ---
 
 ## Filosofia delle domande
