@@ -188,7 +188,7 @@ I **31 macrotemi principali** sono filoni di progettazione, **non** valori di `c
 | Viaggi & Vacanze | Ambito | Voli, hotel, compagni scomodi, vacanze rovinate e avventura | `lifestyle` | `survival`, `money`, `silly` |
 | Feste & Matrimoni | Ambito | Ricevimenti, compleanni, discorsi, invitati e riti sociali | `social` | `food`, `money`, `love` |
 | Animali & Convivenza Assurda | Ambito | Animali domestici, pet parlanti, convivenza e dilemmi buffi | `silly` | `fantasy`, `lifestyle`, `dilemmas` |
-| Spicy & Sotto le Lenzuola | Ambito | Flirt, desideri e situazioni intime allusive tra adulti consenzienti | `love` | `silly` |
+| Spicy & Sotto le Lenzuola | Ambito | Flirt, desideri e situazioni intime tra adulti consenzienti: allusive in live, anche esplicite fuori dalla live | `love` | `silly` |
 | Regole Assurde & Divieti Impossibili | Ambito | Privilegi con clausole ridicole, divieti logici e umiliazioni sociali comiche | `silly` | `money`, `food`, `school-work`, `social`, `lifestyle` |
 | Tecnologia & Dipendenze Digitali | Ambito | Smartphone, IA, privacy, notifiche, algoritmi, vita digitale distopica | `lifestyle` | `fame`, `social`, `silly` |
 | Sonno & Sogni | Ambito | Sogni lucidi, incubi assurdi, notti bizzarre e tempo di riposo | `fantasy` | `silly`, `lifestyle`, `dilemmas` |
@@ -376,6 +376,8 @@ Problema: "la sua" si riferisce all'amico nominato solo nell'opzione A.
 
 - Il tough può essere molto piccante, cattivo o disturbante, ma gli abusi non vanno mai presentati come situazioni sessuali desiderabili.
 - Niente tragedie vere (lutti, malattie): non fanno ridere, spengono la serata.
+- **Riferimenti sessualmente espliciti:** sono ammessi, purché riguardino solo adulti consenzienti in scenari immaginari. Le domande esplicite si marcano nei metadati con `esplicito` e restano fuori dalle live.
+- Mai riferimenti sessuali che coinvolgano minori, ambientazioni scolastiche, infanzia o adolescenza, né situazioni senza consenso presentate come desiderabili.
 - In live il tema Spicy resta malizioso e allusivo, mai esplicito: le piattaforme sono severe sui contenuti sessuali, anche solo scritti.
 - "Preferirei morire" è un’etichetta interna: non compare nel testo delle domande.
 - Le situazioni di tradimento, manipolazione o violazione della privacy possono essere scenari di dilemma, ma non vanno normalizzate né proposte come azioni reali da compiere.

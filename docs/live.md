@@ -65,3 +65,4 @@ Distinta dalla checklist di ammissione delle domande al CSV.
 4. La scaletta alterna temi, meccanismi, intensità e reazioni senza ripetere famiglie semantiche vicine?
 5. Sono state considerate le domande già utilizzate nelle dirette precedenti e pianificate sostituzioni se il pool si esaurisce?
 6. Se la scorta non è sufficiente per due ore, è stata prevista un'integrazione con nuove domande approvate o altri contenuti, evitando di promettere una durata non sostenibile?
+7. Le domande marcate `esplicito` sono state escluse dalla scaletta?
